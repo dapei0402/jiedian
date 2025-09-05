@@ -2,9 +2,17 @@ port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
+log-level: info
+external-controller: 0.0.0.0:9090
 proxies: []
 proxy-groups:
-- name: Auto
-  type: load-balance
+- name: 🚀 节点选择
+  type: select
   proxies: []
-rules: []
+- name: ♻️ 自动选择
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  proxies: []
+rules:
+- MATCH,🚀 节点选择
