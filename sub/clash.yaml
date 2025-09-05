@@ -1,148 +1,346 @@
-dns:
-  enable: true
-  nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-  nameserver-policy:
-    'ChinaClassical,Apple,SteamCN,geosite:cn':
-      - tls://1.12.12.12
-      - 223.5.5.5
-  fallback:
-    - 8.8.8.8
-    - 1.1.1.1
-    - tls://dns.google:853
-    - tls://1.0.0.1:853
-
-proxies: []
-
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 0.0.0.0:9090
+proxies:
+  - name: 🇹🇼 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@zz1.youyouapi.top:52446#TW-%E5%8F%B0%E6%B9%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF88
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇹🇼 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@i2plcwjnhrl6.gym0boy.com:38432#TW-%E5%8F%B0%E6%B9%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF89
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇭🇰 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@hk1-20250813213806be3c17japantm01.tmdns-sing.top:13872#HK-%E9%A6%99%E6%B8%AF-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇺🇸 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@usa20250815010624020199.tmdns-sing.top:13874#US-%E7%BE%8E%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yuenan01.tmdns-sing.top:13875#VN-%E8%B6%8A%E5%8D%97-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇹🇼 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@twlite-20250815011717878c9d.tmdns-sing.top:13876#TW-%E5%8F%B0%E6%B9%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@faguo01.tmdns-sing.top:13877#FR-%E6%B3%95%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yuenan02.tmdns-sing.top:13878#VN-%E8%B6%8A%E5%8D%97-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF2
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yinni01.tmdns-sing.top:13879#IDN-%E5%8D%B0%E5%B0%BC-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@tuerqi01.tmdns-sing.top:13880#TR-%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@feilvbin.tmdns-sing.top:13881#PH-%E8%8F%B2%E5%BE%8B%E5%AE%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇰🇷 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@hanguo01.tmdns-sing.top:13882#KR-%E9%9F%A9%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@eluosi01.tmdns-sing.top:13883#RU-%E4%BF%84%E7%BD%97%E6%96%AF-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@moxige.tmdns-sing.top:13884#MX-%E5%A2%A8%E8%A5%BF%E5%93%A5-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@agenting.tmdns-sing.top:13885#AR-%E9%98%BF%E6%A0%B9%E5%BB%B7-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇸🇬 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@xinjiapo.tmdns-sing.top:13886#SG-%E9%A6%99%E6%B8%AF-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@malaixiya.tmdns-sing.top:13887#MY-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yinggguo.tmdns-sing.top:13888#UK-%E8%8B%B1%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@dubai.tmdns-sing.top:13889#DXB-%E8%BF%AA%E6%8B%9C-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇯🇵 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@japan001.tmdns-sing.top:13890#JP-%E6%97%A5%E6%9C%AC-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇲🇾 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@jianpuzai.tmdns-sing.top:13891#KH-%E6%9F%AC%E5%9F%94%E5%AF%A8-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
+  - name: 🇺🇸 
+      ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@usa022.tmdns-sing.top:13892#US-%E7%BE%8E%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF2
+    type: vmess
+    server: ''
+    port: 443
+    uuid: ''
+    alterId: 0
+    cipher: auto
+    network: tcp
+    ws-path: ''
+    tls: false
 proxy-groups:
-  - name: '🚀 节点选择'
+  - name: "自动选择"
     type: select
-    proxies: []
-  - name: '⚖️ 负载均衡_香港'
+    proxies:
+      - 🇹🇼 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@zz1.youyouapi.top:52446#TW-%E5%8F%B0%E6%B9%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF88
+      - 🇹🇼 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@i2plcwjnhrl6.gym0boy.com:38432#TW-%E5%8F%B0%E6%B9%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF89
+      - 🇭🇰 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@hk1-20250813213806be3c17japantm01.tmdns-sing.top:13872#HK-%E9%A6%99%E6%B8%AF-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇺🇸 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@usa20250815010624020199.tmdns-sing.top:13874#US-%E7%BE%8E%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yuenan01.tmdns-sing.top:13875#VN-%E8%B6%8A%E5%8D%97-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇹🇼 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@twlite-20250815011717878c9d.tmdns-sing.top:13876#TW-%E5%8F%B0%E6%B9%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@faguo01.tmdns-sing.top:13877#FR-%E6%B3%95%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yuenan02.tmdns-sing.top:13878#VN-%E8%B6%8A%E5%8D%97-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF2
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yinni01.tmdns-sing.top:13879#IDN-%E5%8D%B0%E5%B0%BC-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@tuerqi01.tmdns-sing.top:13880#TR-%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@feilvbin.tmdns-sing.top:13881#PH-%E8%8F%B2%E5%BE%8B%E5%AE%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇰🇷 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@hanguo01.tmdns-sing.top:13882#KR-%E9%9F%A9%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@eluosi01.tmdns-sing.top:13883#RU-%E4%BF%84%E7%BD%97%E6%96%AF-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@moxige.tmdns-sing.top:13884#MX-%E5%A2%A8%E8%A5%BF%E5%93%A5-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@agenting.tmdns-sing.top:13885#AR-%E9%98%BF%E6%A0%B9%E5%BB%B7-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇸🇬 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@xinjiapo.tmdns-sing.top:13886#SG-%E9%A6%99%E6%B8%AF-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@malaixiya.tmdns-sing.top:13887#MY-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yinggguo.tmdns-sing.top:13888#UK-%E8%8B%B1%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@dubai.tmdns-sing.top:13889#DXB-%E8%BF%AA%E6%8B%9C-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇯🇵 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@japan001.tmdns-sing.top:13890#JP-%E6%97%A5%E6%9C%AC-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@jianpuzai.tmdns-sing.top:13891#KH-%E6%9F%AC%E5%9F%94%E5%AF%A8-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇺🇸 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@usa022.tmdns-sing.top:13892#US-%E7%BE%8E%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF2
+  - name: "负载均衡"
     type: load-balance
-    strategy: consistent-hashing
-    url: 'https://www.gstatic.com/generate_204'
-    interval: 300
-    proxies: []
-  - name: '⚖️ 负载均衡_新加坡'
-    type: load-balance
-    strategy: consistent-hashing
-    url: 'https://www.gstatic.com/generate_204'
-    interval: 300
-    proxies: []
-  - name: '⚖️ 负载均衡_日本'
-    type: load-balance
-    strategy: consistent-hashing
-    url: 'https://www.gstatic.com/generate_204'
-    interval: 300
-    proxies: []
-  - name: '⚖️ 负载均衡_台湾'
-    type: load-balance
-    strategy: consistent-hashing
-    url: 'https://www.gstatic.com/generate_204'
-    interval: 300
-    proxies: []
-  - name: '⚖️ 负载均衡_美国'
-    type: load-balance
-    strategy: consistent-hashing
-    url: 'https://www.gstatic.com/generate_204'
-    interval: 300
-    proxies: []
-  - name: '⚖️ 负载均衡_韩国'
-    type: load-balance
-    strategy: consistent-hashing
-    url: 'https://www.gstatic.com/generate_204'
-    interval: 300
-    proxies: []
-  - name: '⚖️ 负载均衡_马来西亚'
-    type: load-balance
-    strategy: consistent-hashing
-    url: 'https://www.gstatic.com/generate_204'
-    interval: 300
-    proxies: []
-  - name: '⚖️ 负载均衡_印度尼西亚'
-    type: load-balance
-    strategy: consistent-hashing
-    url: 'https://www.gstatic.com/generate_204'
-    interval: 300
-    proxies: []
-  - name: '🌍 国外媒体'
-    type: select
-    proxies: ['🚀 节点选择', '🎯 全球直连']
-  - name: 'Ⓜ️ 微软服务'
-    type: select
-    proxies: ['🎯 全球直连', '🚀 节点选择']
-  - name: '🍎 苹果服务'
-    type: select
-    proxies: ['🎯 全球直连', '🚀 节点选择']
-  - name: '📦 PikPak'
-    type: select
-    proxies: ['🚀 节点选择', '🎯 全球直连']
-  - name: '🤖 OpenAI'
-    type: select
-    proxies: ['🚀 节点选择', '🎯 全球直连']
-  - name: '🐟 漏网之鱼'
-    type: select
-    proxies: ['🚀 节点选择', '🎯 全球直连']
-  - name: '🎯 全球直连'
-    type: select
-    proxies: [DIRECT]
-
+    proxies:
+      - 🇹🇼 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@zz1.youyouapi.top:52446#TW-%E5%8F%B0%E6%B9%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF88
+      - 🇹🇼 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@i2plcwjnhrl6.gym0boy.com:38432#TW-%E5%8F%B0%E6%B9%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF89
+      - 🇭🇰 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@hk1-20250813213806be3c17japantm01.tmdns-sing.top:13872#HK-%E9%A6%99%E6%B8%AF-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇺🇸 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@usa20250815010624020199.tmdns-sing.top:13874#US-%E7%BE%8E%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yuenan01.tmdns-sing.top:13875#VN-%E8%B6%8A%E5%8D%97-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇹🇼 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@twlite-20250815011717878c9d.tmdns-sing.top:13876#TW-%E5%8F%B0%E6%B9%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@faguo01.tmdns-sing.top:13877#FR-%E6%B3%95%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yuenan02.tmdns-sing.top:13878#VN-%E8%B6%8A%E5%8D%97-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF2
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yinni01.tmdns-sing.top:13879#IDN-%E5%8D%B0%E5%B0%BC-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@tuerqi01.tmdns-sing.top:13880#TR-%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@feilvbin.tmdns-sing.top:13881#PH-%E8%8F%B2%E5%BE%8B%E5%AE%BE-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇰🇷 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@hanguo01.tmdns-sing.top:13882#KR-%E9%9F%A9%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@eluosi01.tmdns-sing.top:13883#RU-%E4%BF%84%E7%BD%97%E6%96%AF-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@moxige.tmdns-sing.top:13884#MX-%E5%A2%A8%E8%A5%BF%E5%93%A5-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@agenting.tmdns-sing.top:13885#AR-%E9%98%BF%E6%A0%B9%E5%BB%B7-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇸🇬 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@xinjiapo.tmdns-sing.top:13886#SG-%E9%A6%99%E6%B8%AF-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@malaixiya.tmdns-sing.top:13887#MY-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@yinggguo.tmdns-sing.top:13888#UK-%E8%8B%B1%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@dubai.tmdns-sing.top:13889#DXB-%E8%BF%AA%E6%8B%9C-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇯🇵 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@japan001.tmdns-sing.top:13890#JP-%E6%97%A5%E6%9C%AC-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇲🇾 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@jianpuzai.tmdns-sing.top:13891#KH-%E6%9F%AC%E5%9F%94%E5%AF%A8-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF1
+      - 🇺🇸 
+        ss://YWVzLTEyOC1nY206NTBiNDU0MWQtMGE0My00OTQ4LWI3YzctYjdlM2U0MWZhYjc3@usa022.tmdns-sing.top:13892#US-%E7%BE%8E%E5%9B%BD-%E5%BF%AB%E9%80%9F%E4%B8%93%E7%BA%BF2
 rules:
-  - 'IP-CIDR,129.146.160.80/32,DIRECT,no-resolve'
-  - 'IP-CIDR,148.135.52.61/32,DIRECT,no-resolve'
-  - 'IP-CIDR,148.135.56.101/32,DIRECT,no-resolve'
-  - 'IP-CIDR,37.123.193.133/32,DIRECT,no-resolve'
-  - 'RULE-SET,LocalAreaNetwork,DIRECT'
-  - 'RULE-SET,BanAD,REJECT'
-  - 'RULE-SET,BanAdobe,REJECT'
-  - 'RULE-SET,GoogleFCM,🚀 节点选择'
-  - 'RULE-SET,SteamCN,DIRECT'
-  - 'RULE-SET,Microsoft,Ⓜ️ 微软服务'
-  - 'RULE-SET,Apple,🍎 苹果服务'
-  - 'RULE-SET,Telegram,🚀 节点选择'
-  - 'RULE-SET,PikPak,📦 PikPak'
-  - 'RULE-SET,OpenAI,🤖 OpenAI'
-  - 'RULE-SET,Claude,🤖 OpenAI'
-  - 'RULE-SET,Gemini,🤖 OpenAI'
-  - 'RULE-SET,ProxyMedia,🌍 国外媒体'
-  - 'RULE-SET,ProxyClassical,🚀 节点选择'
-  - 'RULE-SET,ChinaCIDR,DIRECT'
-  - 'RULE-SET,ChinaClassical,DIRECT'
-  - 'GEOIP,CN,DIRECT'
-  - 'MATCH,🐟 漏网之鱼'
-
-rule-providers:
-  Apple: {behavior: classical, interval: 604800, path: ./rules/Apple.yaml, type: 
-      http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Apple/Apple.yaml'}
-  BanAD: {behavior: domain, interval: 604800, path: ./rules/BanAD.yaml, type: 
-      http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt'}
-  BanAdobe: {behavior: classical, interval: 604800, path: ./rules/BanAdobe.yaml, 
-      type: http, url: 'https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/clash.yaml'}
-  ChinaCIDR: {behavior: ipcidr, interval: 604800, path: ./rules/CNCIDR.yaml, 
-      type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt'}
-  ChinaClassical: {behavior: domain, interval: 604800, path: 
-      ./rules/ChinaClassical.yaml, type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt'}
-  Claude: {behavior: classical, interval: 604800, path: ./rules/Claude.yaml, 
-      type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml'}
-  Gemini: {behavior: classical, interval: 604800, path: ./rules/Gemini.yaml, 
-      type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml'}
-  GoogleFCM: {behavior: classical, interval: 604800, path: 
-      ./rules/GoogleFCM.yaml, type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GoogleFCM/GoogleFCM.yaml'}
-  LocalAreaNetwork: {behavior: classical, interval: 604800, path: 
-      ./rules/LocalAreaNetwork.yaml, type: http, url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml'}
-  Microsoft: {behavior: classical, interval: 604800, path: 
-      ./rules/Microsoft.yaml, type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Microsoft/Microsoft.yaml'}
-  OpenAI: {behavior: classical, interval: 604800, path: ./rules/OpenAI.yaml, 
-      type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml'}
-  PikPak: {behavior: classical, interval: 604800, path: ./rules/PikPak.yaml, 
-      type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PikPak/PikPak.yaml'}
-  ProxyClassical: {behavior: domain, interval: 604800, path: 
-      ./rules/ProxyClassical.yaml, type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt'}
-  ProxyMedia: {behavior: classical, interval: 604800, path: 
-      ./rules/ProxyMedia.yaml, type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml'}
-  SteamCN: {behavior: classical, interval: 604800, path: ./rules/SteamCN.yaml, 
-      type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/SteamCN/SteamCN.yaml'}
-  Telegram: {behavior: classical, interval: 604800, path: ./rules/Telegram.yaml, 
-      type: http, url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml'}
+  - MATCH,自动选择
