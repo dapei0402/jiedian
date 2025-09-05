@@ -2,17 +2,163 @@ port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
-log-level: info
-external-controller: 0.0.0.0:9090
-proxies: []
+proxies:
+  - name: TW-台湾-快速专线88
+    type: ss
+    server: zz1.youyouapi.top
+    port: 52446
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: TW-台湾-快速专线89
+    type: ss
+    server: i2plcwjnhrl6.gym0boy.com
+    port: 38432
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: HK-香港-快速专线1
+    type: ss
+    server: hk1-20250813213806be3c17japantm01.tmdns-sing.top
+    port: 13872
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: US-美国-快速专线1
+    type: ss
+    server: usa20250815010624020199.tmdns-sing.top
+    port: 13874
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: VN-越南-快速专线1
+    type: ss
+    server: yuenan01.tmdns-sing.top
+    port: 13875
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: TW-台湾-快速专线1
+    type: ss
+    server: twlite-20250815011717878c9d.tmdns-sing.top
+    port: 13876
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: FR-法国-快速专线1
+    type: ss
+    server: faguo01.tmdns-sing.top
+    port: 13877
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: VN-越南-快速专线2
+    type: ss
+    server: yuenan02.tmdns-sing.top
+    port: 13878
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: IDN-印尼-快速专线1
+    type: ss
+    server: yinni01.tmdns-sing.top
+    port: 13879
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: TR-土耳其-快速专线1
+    type: ss
+    server: tuerqi01.tmdns-sing.top
+    port: 13880
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: PH-菲律宾-快速专线1
+    type: ss
+    server: feilvbin.tmdns-sing.top
+    port: 13881
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: KR-韩国-快速专线1
+    type: ss
+    server: hanguo01.tmdns-sing.top
+    port: 13882
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: RU-俄罗斯-快速专线1
+    type: ss
+    server: eluosi01.tmdns-sing.top
+    port: 13883
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: MX-墨西哥-快速专线1
+    type: ss
+    server: moxige.tmdns-sing.top
+    port: 13884
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: AR-阿根廷-快速专线1
+    type: ss
+    server: agenting.tmdns-sing.top
+    port: 13885
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: SG-香港-快速专线1
+    type: ss
+    server: xinjiapo.tmdns-sing.top
+    port: 13886
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: MY-马来西亚-快速专线1
+    type: ss
+    server: malaixiya.tmdns-sing.top
+    port: 13887
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: UK-英国-快速专线1
+    type: ss
+    server: yinggguo.tmdns-sing.top
+    port: 13888
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: DXB-迪拜-快速专线1
+    type: ss
+    server: dubai.tmdns-sing.top
+    port: 13889
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: JP-日本-快速专线1
+    type: ss
+    server: japan001.tmdns-sing.top
+    port: 13890
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: KH-柬埔寨-快速专线1
+    type: ss
+    server: jianpuzai.tmdns-sing.top
+    port: 13891
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
+  - name: US-美国-快速专线2
+    type: ss
+    server: usa022.tmdns-sing.top
+    port: 13892
+    cipher: YWVzLTEyOC1nY206ODA3ZDg2OTYtNmZhMC00ZTdiLTk2ZDctYTdiNTg5MjE5MzI2
+    password: ''
 proxy-groups:
-- name: 🚀 节点选择
-  type: select
-  proxies: []
-- name: ♻️ 自动选择
-  type: url-test
-  url: http://www.gstatic.com/generate_204
-  interval: 300
-  proxies: []
-rules:
-- MATCH,🚀 节点选择
+  - name: Auto
+    type: load-balance
+    proxies:
+      - TW-台湾-快速专线88
+      - TW-台湾-快速专线89
+      - HK-香港-快速专线1
+      - US-美国-快速专线1
+      - VN-越南-快速专线1
+      - TW-台湾-快速专线1
+      - FR-法国-快速专线1
+      - VN-越南-快速专线2
+      - IDN-印尼-快速专线1
+      - TR-土耳其-快速专线1
+      - PH-菲律宾-快速专线1
+      - KR-韩国-快速专线1
+      - RU-俄罗斯-快速专线1
+      - MX-墨西哥-快速专线1
+      - AR-阿根廷-快速专线1
+      - SG-香港-快速专线1
+      - MY-马来西亚-快速专线1
+      - UK-英国-快速专线1
+      - DXB-迪拜-快速专线1
+      - JP-日本-快速专线1
+      - KH-柬埔寨-快速专线1
+      - US-美国-快速专线2
+rules: []
