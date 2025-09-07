@@ -13,7 +13,7 @@ dns:
     - tls://dns.google:853
     - tls://1.0.0.1:853
 proxies:
-  - name: 🇭🇰 HK-香港-快速专线1
+  - name: 🔥【交流群@pgkj0402】 🇭🇰 HK-香港-快速专线1
     type: ss
     server: hk1-20250813213806be3c17japantm01.tmdns-sing.top
     port: 13872
@@ -21,7 +21,7 @@ proxies:
     password: 8aa0b03b-e4c6-4365-ad2d-f6e8a69411aa
     plugin: ''
     plugin-opts: {}
-  - name: 🇭🇰 HK-香港-快速专线1#
+  - name: 📢【频道群@pgkj666】 🇭🇰 HK-香港-快速专线1#
     type: ss
     server: hk1-20250813213806be3c17japantm01.tmdns-sing.top
     port: 13872
@@ -197,22 +197,6 @@ proxies:
     password: f5d2cde8-b0f4-403b-a52b-bb502923e62e
     plugin: ''
     plugin-opts: {}
-  - name: 🇲🇽 MX-墨西哥-快速专线1
-    type: ss
-    server: moxige.tmdns-sing.top
-    port: 13884
-    cipher: aes-128-gcm
-    password: 8aa0b03b-e4c6-4365-ad2d-f6e8a69411aa
-    plugin: ''
-    plugin-opts: {}
-  - name: 🇲🇽 MX-墨西哥-快速专线1#
-    type: ss
-    server: moxige.tmdns-sing.top
-    port: 13884
-    cipher: aes-128-gcm
-    password: ffc542fe-916c-4ff1-a9dc-26ff5bad03cd
-    plugin: ''
-    plugin-opts: {}
   - name: 🇻🇳 VN-越南-快速专线1
     type: ss
     server: yuenan01.tmdns-sing.top
@@ -381,6 +365,22 @@ proxies:
     password: f5d2cde8-b0f4-403b-a52b-bb502923e62e
     plugin: ''
     plugin-opts: {}
+  - name: 🇲🇽 MX-墨西哥-快速专线1
+    type: ss
+    server: moxige.tmdns-sing.top
+    port: 13884
+    cipher: aes-128-gcm
+    password: 8aa0b03b-e4c6-4365-ad2d-f6e8a69411aa
+    plugin: ''
+    plugin-opts: {}
+  - name: 🇲🇽 MX-墨西哥-快速专线1#
+    type: ss
+    server: moxige.tmdns-sing.top
+    port: 13884
+    cipher: aes-128-gcm
+    password: ffc542fe-916c-4ff1-a9dc-26ff5bad03cd
+    plugin: ''
+    plugin-opts: {}
   - name: 🇦🇷 AR-阿根廷-快速专线1
     type: ss
     server: agenting.tmdns-sing.top
@@ -513,12 +513,12 @@ proxy-groups:
   - name: '🚀 节点选择'
     type: select
     proxies:
-      - 🇭🇰 HK-香港-快速专线1
-      - 🇭🇰 HK-香港-快速专线1#
       - 🇭🇰 HK-香港-快速专线1#HK-香港-专线
       - 🇭🇰 SG-香港-快速专线1
       - 🇭🇰 SG-香港-快速专线1#
       - 🇭🇰 SG-香港-快速专线1#XI-XI-专线
+      - 📢【频道群@pgkj666】 🇭🇰 HK-香港-快速专线1#
+      - 🔥【交流群@pgkj0402】 🇭🇰 HK-香港-快速专线1
       - 🇯🇵 JP-日本-快速专线1
       - 🇯🇵 JP-日本-快速专线1#
       - 🇯🇵 JP-日本-快速专线1#JA-JA-专线
