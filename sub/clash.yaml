@@ -13,74 +13,58 @@ dns:
     - tls://dns.google:853
     - tls://1.0.0.1:853
 proxies:
-  - name: 🇯🇵 🇯🇵 日本2
-    type: vmess
-    server: 134.122.139.79
+  - name: 🏴‍☠️ 🇬🇧园🚪射🐔005
+    type: vless
+    server: 198.62.62.2
     port: 443
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    alterId: 64
-    cipher: auto
-    udp: true
-    network: ws
+    uuid: 598b4251-fd03-48fe-b12d-630ac3adf2e5
     tls: true
-    sni: ''
-    alpn: []
-    ws-opts:
-      path: /path/011410073331
-      headers: {}
-  - name: 🇯🇵 🇯🇵 日本6
-    type: vmess
-    server: cfcdn3.sanfencdn9.com
-    port: 80
-    uuid: 4c27e0c5-de26-43a5-bffd-2d25beb1c1d3
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    tls: false
-    sni: ''
-    alpn: []
-    ws-opts:
-      path: /video/P7EExoE2
-      headers: {}
-  - name: 🇺🇸 🇺🇸 美国
-    type: vmess
-    server: 104.19.51.232
-    port: 2086
-    uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    tls: false
-    sni: ''
-    alpn: []
-    ws-opts:
-      path: github.com/Alvin9999
-      headers: {}
-  - name: 🇺🇸 🇺🇸 美国5
-    type: vmess
-    server: 104.26.0.56
-    port: 2086
-    uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    tls: false
-    sni: ''
-    alpn: []
-    ws-opts:
-      path: github.com/Alvin9999
-      headers: {}
+    servername: smn2.gerlemondns.info
+    flow: ''
+    encryption: none
+  - name: 🏴‍☠️ 🇬🇧圆🚪射🐔003
+    type: vless
+    server: nv93.momdping.com
+    port: 443
+    uuid: 53511879-cc7a-43a6-85d2-52bce581262d
+    tls: true
+    servername: nv93.momdping.com
+    flow: ''
+    encryption: none
+  - name: 🏴‍☠️ 🇷🇺🍓006
+    type: ss
+    server: 95.163.176.37
+    port: 8506
+    cipher: chacha20-ietf-poly1305
+    password: eUh4lSpi7nOYj0vSrqLUh0
+    plugin: ''
+    plugin-opts: {}
+  - name: 🏴‍☠️ 🇺🇸 有容奶大008
+    type: ss
+    server: awes35lesl.blhao0o.dpdns.org
+    port: 12026
+    cipher: aes-128-gcm
+    password: 01721e43-5389-4f97-b21c-900abb2bda9e
+    plugin: ''
+    plugin-opts: {}
+  - name: 🏴‍☠️ 🇺🇸🍓002
+    type: vless
+    server: 45.150.52.173
+    port: 33038
+    uuid: 32fc1911-cb70-4559-e3ad-04e0354f3204
+    tls: true
+    servername: dny313.yy004vip.uk
+    flow: ''
+    encryption: none
 proxy-groups:
   - name: '🚀 节点选择'
     type: select
     proxies:
-      - 🇯🇵 🇯🇵 日本2
-      - 🇯🇵 🇯🇵 日本6
-      - 🇺🇸 🇺🇸 美国
-      - 🇺🇸 🇺🇸 美国5
+      - 🏴‍☠️ 🇬🇧园🚪射🐔005
+      - 🏴‍☠️ 🇬🇧圆🚪射🐔003
+      - 🏴‍☠️ 🇷🇺🍓006
+      - 🏴‍☠️ 🇺🇸 有容奶大008
+      - 🏴‍☠️ 🇺🇸🍓002
   - name: '🌍 国外媒体'
     type: select
     proxies: ['🚀 节点选择', '🎯 全球直连']
