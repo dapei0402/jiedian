@@ -197,6 +197,30 @@ proxies:
     password: f5d2cde8-b0f4-403b-a52b-bb502923e62e
     plugin: ''
     plugin-opts: {}
+  - name: 🇦🇪 DXB-迪拜-快速专线1
+    type: ss
+    server: dubai.tmdns-sing.top
+    port: 13889
+    cipher: aes-128-gcm
+    password: 8aa0b03b-e4c6-4365-ad2d-f6e8a69411aa
+    plugin: ''
+    plugin-opts: {}
+  - name: 🇦🇪 DXB-迪拜-快速专线1#
+    type: ss
+    server: dubai.tmdns-sing.top
+    port: 13889
+    cipher: aes-128-gcm
+    password: ffc542fe-916c-4ff1-a9dc-26ff5bad03cd
+    plugin: ''
+    plugin-opts: {}
+  - name: 🇦🇪 DXB-迪拜-快速专线1#DU-DU-专线
+    type: ss
+    server: dubai.tmdns-sing.top
+    port: 13889
+    cipher: aes-128-gcm
+    password: f5d2cde8-b0f4-403b-a52b-bb502923e62e
+    plugin: ''
+    plugin-opts: {}
   - name: 🇻🇳 VN-越南-快速专线1
     type: ss
     server: yuenan01.tmdns-sing.top
@@ -453,30 +477,6 @@ proxies:
     password: f5d2cde8-b0f4-403b-a52b-bb502923e62e
     plugin: ''
     plugin-opts: {}
-  - name: 🏴‍☠️ DXB-迪拜-快速专线1
-    type: ss
-    server: dubai.tmdns-sing.top
-    port: 13889
-    cipher: aes-128-gcm
-    password: 8aa0b03b-e4c6-4365-ad2d-f6e8a69411aa
-    plugin: ''
-    plugin-opts: {}
-  - name: 🏴‍☠️ DXB-迪拜-快速专线1#
-    type: ss
-    server: dubai.tmdns-sing.top
-    port: 13889
-    cipher: aes-128-gcm
-    password: ffc542fe-916c-4ff1-a9dc-26ff5bad03cd
-    plugin: ''
-    plugin-opts: {}
-  - name: 🏴‍☠️ DXB-迪拜-快速专线1#DU-DU-专线
-    type: ss
-    server: dubai.tmdns-sing.top
-    port: 13889
-    cipher: aes-128-gcm
-    password: f5d2cde8-b0f4-403b-a52b-bb502923e62e
-    plugin: ''
-    plugin-opts: {}
   - name: 🇰🇭 KH-柬埔寨-快速专线1
     type: ss
     server: jianpuzai.tmdns-sing.top
@@ -536,6 +536,9 @@ proxy-groups:
       - 🇺🇸 US-美国-快速专线2
       - 🇺🇸 US-美国-快速专线2#
       - 🇺🇸 US-美国-快速专线2#US-美国-专线
+      - 🇦🇪 DXB-迪拜-快速专线1
+      - 🇦🇪 DXB-迪拜-快速专线1#
+      - 🇦🇪 DXB-迪拜-快速专线1#DU-DU-专线
       - 🇦🇷 AR-阿根廷-快速专线1
       - 🇦🇷 AR-阿根廷-快速专线1#
       - 🇦🇷 AR-阿根廷-快速专线1#AG-AG-专线
@@ -572,9 +575,6 @@ proxy-groups:
       - 🇻🇳 VN-越南-快速专线2
       - 🇻🇳 VN-越南-快速专线2#
       - 🇻🇳 VN-越南-快速专线2#YU-YU-专线
-      - 🏴‍☠️ DXB-迪拜-快速专线1
-      - 🏴‍☠️ DXB-迪拜-快速专线1#
-      - 🏴‍☠️ DXB-迪拜-快速专线1#DU-DU-专线
   - name: '🌍 国外媒体'
     type: select
     proxies: ['🚀 节点选择', '🎯 全球直连']
