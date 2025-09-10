@@ -1,0 +1,238 @@
+dns:
+  enable: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  nameserver-policy:
+    'ChinaClassical,Apple,SteamCN,geosite:cn':
+      - tls://1.12.12.12
+      - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 1.1.1.1
+    - tls://dns.google:853
+    - tls://1.0.0.1:853
+proxies:
+  - name: 🔥【交流群@pgkj0402】 🇸🇬 🇸🇬_SG_新加坡_2
+    type: vless
+    server: 27.50.49.232
+    port: 8443
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 📢【频道群@pgkj666】 🇸🇬 🇸🇬_SG_新加坡_37
+    type: vless
+    server: 27.50.48.222
+    port: 443
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇸🇬 🇸🇬_SG_新加坡_7
+    type: vless
+    server: 27.50.49.13
+    port: 443
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_14
+    type: vless
+    server: 14.102.228.210
+    port: 2096
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_18
+    type: vless
+    server: 89.116.161.250
+    port: 8443
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_20
+    type: vless
+    server: 140.99.233.156
+    port: 2087
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_21
+    type: vless
+    server: 45.159.218.162
+    port: 8443
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_28
+    type: vless
+    server: 170.114.45.25
+    port: 443
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_3
+    type: vless
+    server: 185.148.105.225
+    port: 8443
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_32
+    type: vless
+    server: 167.68.5.90
+    port: 8443
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_34
+    type: vless
+    server: 89.116.180.130
+    port: 2053
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_35
+    type: vless
+    server: 199.181.197.39
+    port: 443
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+  - name: 🇺🇸 🇺🇸_US_美国_4
+    type: vless
+    server: 216.205.52.109
+    port: 2083
+    uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f
+    tls: true
+    servername: juzibaipiao.5112233.xyz
+    flow: ''
+    encryption: none
+proxy-groups:
+  - name: '🚀 节点选择'
+    type: select
+    proxies:
+      - 🇸🇬 🇸🇬_SG_新加坡_7
+      - 📢【频道群@pgkj666】 🇸🇬 🇸🇬_SG_新加坡_37
+      - 🔥【交流群@pgkj0402】 🇸🇬 🇸🇬_SG_新加坡_2
+      - 🇺🇸 🇺🇸_US_美国_14
+      - 🇺🇸 🇺🇸_US_美国_18
+      - 🇺🇸 🇺🇸_US_美国_20
+      - 🇺🇸 🇺🇸_US_美国_21
+      - 🇺🇸 🇺🇸_US_美国_28
+      - 🇺🇸 🇺🇸_US_美国_3
+      - 🇺🇸 🇺🇸_US_美国_32
+      - 🇺🇸 🇺🇸_US_美国_34
+      - 🇺🇸 🇺🇸_US_美国_35
+      - 🇺🇸 🇺🇸_US_美国_4
+  - name: '🌍 国外媒体'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: 'Ⓜ️ 微软服务'
+    type: select
+    proxies: ['🎯 全球直连', '🚀 节点选择']
+  - name: '🍎 苹果服务'
+    type: select
+    proxies: ['🎯 全球直连', '🚀 节点选择']
+  - name: '📦 PikPak'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🤖 OpenAI'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🐟 漏网之鱼'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🎯 全球直连'
+    type: select
+    proxies: [DIRECT]
+rules:
+  - 'IP-CIDR,129.146.160.80/32,DIRECT,no-resolve'
+  - 'IP-CIDR,148.135.52.61/32,DIRECT,no-resolve'
+  - 'IP-CIDR,148.135.56.101/32,DIRECT,no-resolve'
+  - 'IP-CIDR,37.123.193.133/32,DIRECT,no-resolve'
+  - 'IP-CIDR,111.119.203.69/32,DIRECT,no-resolve'
+  - 'IP-CIDR,110.238.105.126/32,DIRECT,no-resolve'
+  - 'IP-CIDR,166.108.206.148/32,DIRECT,no-resolve'
+  - 'IP-CIDR,155.248.181.42/32,DIRECT,no-resolve'
+  - 'IP-CIDR,176.126.114.184/32,DIRECT,no-resolve'
+  - 'IP-CIDR,103.238.129.152/32,DIRECT,no-resolve'
+  - 'IP-CIDR,45.66.217.124/32,DIRECT,no-resolve'
+  - 'IP-CIDR,183.2.133.144/32,DIRECT,no-resolve'
+  - 'IP-CIDR,103.103.245.13/32,DIRECT,no-resolve'
+  - 'DOMAIN,github.moeyy.xyz,DIRECT'
+  - 'DOMAIN,hk.xybhdy.top,DIRECT'
+  - 'DOMAIN,hd1dc.com,DIRECT'
+  - 'RULE-SET,LocalAreaNetwork,DIRECT'
+  - 'RULE-SET,BanAD,REJECT'
+  - 'RULE-SET,BanAdobe,REJECT'
+  - 'RULE-SET,GoogleFCM,🚀 节点选择'
+  - 'RULE-SET,SteamCN,DIRECT'
+  - 'RULE-SET,Microsoft,Ⓜ️ 微软服务'
+  - 'RULE-SET,Apple,🍎 苹果服务'
+  - 'RULE-SET,Telegram,🚀 节点选择'
+  - 'RULE-SET,PikPak,📦 PikPak'
+  - 'RULE-SET,OpenAI,🤖 OpenAI'
+  - 'RULE-SET,Claude,🤖 OpenAI'
+  - 'RULE-SET,Gemini,🤖 OpenAI'
+  - 'RULE-SET,ProxyMedia,🌍 国外媒体'
+  - 'RULE-SET,ProxyClassical,🚀 节点选择'
+  - 'RULE-SET,ChinaCIDR,DIRECT'
+  - 'RULE-SET,ChinaClassical,DIRECT'
+  - 'GEOIP,CN,DIRECT'
+  - 'MATCH,🐟 漏网之鱼'
+rule-providers:
+  Apple: {behavior: classical, interval: 604800, path: ./rules/Apple.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Apple/Apple.yaml'}
+  BanAD: {behavior: domain, interval: 604800, path: ./rules/BanAD.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt'}
+  BanAdobe: {behavior: classical, interval: 604800, path: ./rules/BanAdobe.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/clash.yaml'}
+  ChinaCIDR: {behavior: ipcidr, interval: 604800, path: ./rules/CNCIDR.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt'}
+  ChinaClassical: {behavior: domain, interval: 604800, path: ./rules/ChinaClassical.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt'}
+  Claude: {behavior: classical, interval: 604800, path: ./rules/Claude.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml'}
+  Gemini: {behavior: classical, interval: 604800, path: ./rules/Gemini.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml'}
+  GoogleFCM: {behavior: classical, interval: 604800, path: ./rules/GoogleFCM.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GoogleFCM/GoogleFCM.yaml'}
+  LocalAreaNetwork: {behavior: classical, interval: 604800, path: ./rules/LocalAreaNetwork.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml'}
+  Microsoft: {behavior: classical, interval: 604800, path: ./rules/Microsoft.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Microsoft/Microsoft.yaml'}
+  OpenAI: {behavior: classical, interval: 604800, path: ./rules/OpenAI.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml'}
+  PikPak: {behavior: classical, interval: 604800, path: ./rules/PikPak.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PikPak/PikPak.yaml'}
+  ProxyClassical: {behavior: domain, interval: 604800, path: ./rules/ProxyClassical.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt'}
+  ProxyMedia: {behavior: classical, interval: 604800, path: ./rules/ProxyMedia.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml'}
+  SteamCN: {behavior: classical, interval: 604800, path: ./rules/SteamCN.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/SteamCN/SteamCN.yaml'}
+  Telegram: {behavior: classical, interval: 604800, path: ./rules/Telegram.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml'}
