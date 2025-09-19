@@ -1,0 +1,616 @@
+dns:
+  enable: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  nameserver-policy:
+    'ChinaClassical,Apple,SteamCN,geosite:cn':
+      - tls://1.12.12.12
+      - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 1.1.1.1
+    - tls://dns.google:853
+    - tls://1.0.0.1:853
+proxies:
+  - name: 🔥【交流群@pgkj0402】 🇭🇰 香港|@ripaojiedian
+    type: vmess
+    server: v9.heduian.link
+    port: 30809
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    tls: false
+    sni: ''
+    alpn: []
+    ws-opts:
+      path: /oooo
+      headers:
+        Host: baidu.com
+  - name: 📢【频道群@pgkj666】 🇭🇰 🇭🇰 香港2|@ripaojiedian
+    type: ss
+    server: 156.251.179.135
+    port: 443
+    cipher: aes-256-gcm
+    password: 2b5fad3874e5
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-🇭🇰 香港3|@ripaojiedian
+    type: vmess
+    server: 149.104.15.178
+    port: 21201
+    uuid: e43b6c20-2f61-4e8c-a692-c737fa5cfa0d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-🇭🇰 香港3|@ripaojiedian
+    type: vmess
+    server: 149.104.15.178
+    port: 21201
+    uuid: e43b6c20-2f61-4e8c-a692-c737fa5cfa0d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: http
+    tls: false
+    sni: ''
+    alpn: []
+    http-opts:
+      method: POST
+      path:
+        - /
+      headers:
+        User-Agent:
+          - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+        Connection:
+          - keep-alive
+  - name: 🇭🇰 🇭🇰 香港4|@stairnode
+    type: trojan
+    server: 112.118.248.22
+    port: 443
+    password: 253bc477d4e43c209f2d427272968280
+    sni: www.nintendogames.net
+    skip-cert-verify: true
+  - name: 🇭🇰 🇭🇰 香港|@stairnode
+    type: vmess
+    server: v9.heduian.link
+    port: 30809
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    tls: false
+    sni: ''
+    alpn: []
+    ws-opts:
+      path: /oooo
+      headers:
+        Host: baidu.com
+  - name: 🇭🇰 🇭🇰HK香港2
+    type: trojan
+    server: 160.16.63.16
+    port: 447
+    password: 253bc477d4e43c209f2d427272968280
+    sni: www.baidu.com
+    skip-cert-verify: true
+  - name: 🇭🇰 🇭🇰HK香港7
+    type: trojan
+    server: 165.154.112.107
+    port: 12000
+    password: 1640ef52-2db0-44ab-b3f3-8690b762ebc9
+    sni: ''
+    skip-cert-verify: true
+  - name: 🇸🇬 新加坡3|@ripaojiedian
+    type: vmess
+    server: v39.heduian.link
+    port: 30839
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    tls: false
+    sni: ''
+    alpn: []
+    ws-opts:
+      path: /oooo
+      headers:
+        Host: baidu.com
+  - name: 🇸🇬 🇸🇬 新加坡2|@stairnode
+    type: trojan
+    server: 36.151.251.6
+    port: 9160
+    password: 253bc477d4e43c209f2d427272968280
+    sni: www.nintendogames.net
+    skip-cert-verify: true
+  - name: 🇸🇬 🇸🇬 新加坡3|@stairnode
+    type: vmess
+    server: v39.heduian.link
+    port: 30839
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    tls: false
+    sni: ''
+    alpn: []
+    ws-opts:
+      path: /oooo
+      headers:
+        Host: baidu.com
+  - name: 🇸🇬 🇸🇬 新加坡|@ripaojiedian
+    type: trojan
+    server: 36.151.251.6
+    port: 4801
+    password: 253bc477d4e43c209f2d427272968280
+    sni: www.nintendogames.net
+    skip-cert-verify: true
+  - name: 🇯🇵 🇯🇵 日本2|@ripaojiedian
+    type: ss
+    server: 137.220.142.139
+    port: 443
+    cipher: aes-256-gcm
+    password: 8808e9f11454
+    plugin: v2ray-plugin
+    plugin-opts:
+      mode: websocket
+      path: /nvcnjrmkggoy
+      host: jp5v1.lingjfjkm002.com
+  - name: 🇯🇵 🇯🇵 日本3|@ripaojiedian
+    type: trojan
+    server: 153.121.45.139
+    port: 327
+    password: 253bc477d4e43c209f2d427272968280
+    sni: www.nintendogames.net
+    skip-cert-verify: true
+  - name: 🇯🇵 🇯🇵 日本|@ripaojiedian
+    type: ss
+    server: cn01.efan8867801.xyz
+    port: 8766
+    cipher: rc4-md5
+    password: efanccyun
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-🇺🇸 美国
+    type: vmess
+    server: tunnel.gzcloud.shop
+    port: 47093
+    uuid: 89a62b16-a3c3-4ad7-be18-6f0266f7a2c5
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-🇺🇸 美国
+    type: vmess
+    server: DdDDdddddDFrrrrrrRRy.IRan2035.dPDns.ORG
+    port: 443
+    uuid: a94fafdb-10d6-46c2-be8a-5c2e8358fbb0
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    tls: true
+    sni: ''
+    alpn: []
+    ws-opts:
+      path: /CjJ9A46ZRHvgWvVcmjyiKVby2Lp
+      headers:
+        Host: ddddddddddfrrrrrrrry.iran2035.dpdns.org
+  - name: 03-🇺🇸 美国
+    type: vmess
+    server: serkat.org
+    port: 443
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    alterId: 1
+    cipher: auto
+    udp: true
+    network: ws
+    tls: true
+    sni: ''
+    alpn: []
+    ws-opts:
+      path: linkvws
+      headers:
+        Host: serkat.org
+  - name: 04-🇺🇸 美国
+    type: vmess
+    server: 183.240.245.251
+    port: 39595
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-🇺🇸 美国
+    type: vmess
+    server: 183.240.180.3
+    port: 34141
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    alterId: 64
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 🇺🇸 🇺🇸 美国 华盛顿Cogent通信公司
+    type: trojan
+    server: 38.180.249.177
+    port: 8443
+    password: installshield
+    sni: 38.180.249.177
+    skip-cert-verify: true
+  - name: 🇺🇸 🇺🇸US美国2 2.6MB/s [2.6MB]
+    type: ss
+    server: 204.136.10.115
+    port: 1866
+    cipher: chacha20-ietf-poly1305
+    password: oXGp1+ihlfKg826H
+    plugin: ''
+    plugin-opts: {}
+  - name: 🇺🇸 🇺🇸US美国7
+    type: trojan
+    server: 51.81.203.233
+    port: 443
+    password: 2ee85121-31de-4581-a492-eb00f606e392
+    sni: rs4.freeguard.org
+    skip-cert-verify: true
+  - name: 🇺🇸 🇺🇸US美国9
+    type: trojan
+    server: 15.204.248.103
+    port: 443
+    password: 2ee85121-31de-4581-a492-eb00f606e392
+    sni: rs3.freeguard.org
+    skip-cert-verify: true
+  - name: 🇮🇪 🇺🇸 美国2|@ripaojiedian
+    type: ss
+    server: cn01.efan8867801.xyz
+    port: 8774
+    cipher: rc4-md5
+    password: efanccyun
+    plugin: ''
+    plugin-opts: {}
+  - name: 🇮🇪 🇺🇸 美国3|@ripaojiedian
+    type: trojan
+    server: 153.121.73.102
+    port: 3294
+    password: 253bc477d4e43c209f2d427272968280
+    sni: www.nintendogames.net
+    skip-cert-verify: true
+  - name: 🇮🇪 🇺🇸 美国4|@ripaojiedian
+    type: trojan
+    server: 153.121.73.102
+    port: 3296
+    password: 253bc477d4e43c209f2d427272968280
+    sni: www.nintendogames.net
+    skip-cert-verify: true
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 144
+    type: vless
+    server: 103.245.228.255
+    port: 80
+    uuid: 77ece81f-a99a-4bd9-be0f-3c562c4dab8d
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 155
+    type: vless
+    server: 104.239.72.255
+    port: 80
+    uuid: 0a6936a5-12cb-4038-86bb-562894b7816f
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 159
+    type: vless
+    server: 109.176.239.255
+    port: 80
+    uuid: 15510a34-7cec-411a-9256-279241522f81
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 171
+    type: vless
+    server: 147.185.161.255
+    port: 80
+    uuid: 4657a214-f331-4b98-bbe1-e813ab777a58
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 178
+    type: vless
+    server: 154.197.75.255
+    port: 80
+    uuid: 89b2eb61-c9c8-4990-9205-7f5eec0501fc
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 184
+    type: vless
+    server: 154.206.12.255
+    port: 80
+    uuid: 0a6936a5-12cb-4038-86bb-562894b7816f
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 236
+    type: vless
+    server: 185.59.218.255
+    port: 80
+    uuid: 89b2eb61-c9c8-4990-9205-7f5eec0501fc
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 241
+    type: vless
+    server: 185.148.106.255
+    port: 80
+    uuid: 7d265652-cacf-4b9a-aee6-f20ba4dbfe04
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 246
+    type: vless
+    server: 185.159.247.255
+    port: 80
+    uuid: 15510a34-7cec-411a-9256-279241522f81
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 271
+    type: vless
+    server: 188.42.89.255
+    port: 80
+    uuid: 0a6936a5-12cb-4038-86bb-562894b7816f
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 28
+    type: vless
+    server: 31.12.75.255
+    port: 80
+    uuid: 77ece81f-a99a-4bd9-be0f-3c562c4dab8d
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 280
+    type: vless
+    server: 190.93.247.255
+    port: 80
+    uuid: a4798d14-063c-4b01-9b70-5b5793335b87
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 283
+    type: vless
+    server: 192.65.217.255
+    port: 80
+    uuid: acf0cb41-ac1a-448f-98cf-0b58a9f92b05
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 295
+    type: vless
+    server: 194.36.55.255
+    port: 80
+    uuid: 67b05dba-e32b-424a-b5a8-61a2f4097a14
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 299
+    type: vless
+    server: 194.152.44.255
+    port: 80
+    uuid: 7d265652-cacf-4b9a-aee6-f20ba4dbfe04
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 59
+    type: vless
+    server: 45.131.7.255
+    port: 80
+    uuid: 7baac04e-a297-48a0-99e9-2deba9ae64fb
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 93
+    type: vless
+    server: 50.62.195.255
+    port: 80
+    uuid: 20c21ebd-05ed-4f44-bc4d-8831ac518b7a
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+  - name: 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 96
+    type: vless
+    server: 63.141.128.255
+    port: 80
+    uuid: 7d265652-cacf-4b9a-aee6-f20ba4dbfe04
+    tls: false
+    servername: ''
+    flow: ''
+    encryption: none
+proxy-groups:
+  - name: '🚀 节点选择'
+    type: select
+    proxies:
+      - 🇭🇰 🇭🇰 香港3|@ripaojiedian
+      - 🇭🇰 🇭🇰 香港4|@stairnode
+      - 🇭🇰 🇭🇰 香港|@stairnode
+      - 🇭🇰 🇭🇰HK香港2
+      - 🇭🇰 🇭🇰HK香港7
+      - 📢【频道群@pgkj666】 🇭🇰 🇭🇰 香港2|@ripaojiedian
+      - 🔥【交流群@pgkj0402】 🇭🇰 香港|@ripaojiedian
+      - 🇸🇬 新加坡3|@ripaojiedian
+      - 🇸🇬 🇸🇬 新加坡2|@stairnode
+      - 🇸🇬 🇸🇬 新加坡3|@stairnode
+      - 🇸🇬 🇸🇬 新加坡|@ripaojiedian
+      - 🇯🇵 🇯🇵 日本2|@ripaojiedian
+      - 🇯🇵 🇯🇵 日本3|@ripaojiedian
+      - 🇯🇵 🇯🇵 日本|@ripaojiedian
+      - 🇺🇸 🇺🇸 美国
+      - 🇺🇸 🇺🇸 美国 华盛顿Cogent通信公司
+      - 🇺🇸 🇺🇸US美国2 2.6MB/s
+      - 🇺🇸 🇺🇸US美国7
+      - 🇺🇸 🇺🇸US美国9
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 144
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 155
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 159
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 171
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 178
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 184
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 236
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 241
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 246
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 271
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 28
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 280
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 283
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 295
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 299
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 59
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 93
+      - 🇩🇪 🇺🇸 机场推荐:dafei.de 美国 96
+      - 🇮🇪 🇺🇸 美国2|@ripaojiedian
+      - 🇮🇪 🇺🇸 美国3|@ripaojiedian
+      - 🇮🇪 🇺🇸 美国4|@ripaojiedian
+  - name: '🌍 国外媒体'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: 'Ⓜ️ 微软服务'
+    type: select
+    proxies: ['🎯 全球直连', '🚀 节点选择']
+  - name: '🍎 苹果服务'
+    type: select
+    proxies: ['🎯 全球直连', '🚀 节点选择']
+  - name: '📦 PikPak'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🤖 OpenAI'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🐟 漏网之鱼'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🎯 全球直连'
+    type: select
+    proxies: [DIRECT]
+  - name: 🇭🇰 🇭🇰 香港3|@ripaojiedian
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-🇭🇰 香港3|@ripaojiedian
+      - 02-🇭🇰 香港3|@ripaojiedian
+  - name: 🇺🇸 🇺🇸 美国
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-🇺🇸 美国
+      - 02-🇺🇸 美国
+      - 03-🇺🇸 美国
+      - 04-🇺🇸 美国
+      - 05-🇺🇸 美国
+rules:
+  - 'IP-CIDR,129.146.160.80/32,DIRECT,no-resolve'
+  - 'IP-CIDR,148.135.52.61/32,DIRECT,no-resolve'
+  - 'IP-CIDR,148.135.56.101/32,DIRECT,no-resolve'
+  - 'IP-CIDR,37.123.193.133/32,DIRECT,no-resolve'
+  - 'IP-CIDR,111.119.203.69/32,DIRECT,no-resolve'
+  - 'IP-CIDR,110.238.105.126/32,DIRECT,no-resolve'
+  - 'IP-CIDR,166.108.206.148/32,DIRECT,no-resolve'
+  - 'IP-CIDR,155.248.181.42/32,DIRECT,no-resolve'
+  - 'IP-CIDR,176.126.114.184/32,DIRECT,no-resolve'
+  - 'IP-CIDR,103.238.129.152/32,DIRECT,no-resolve'
+  - 'IP-CIDR,45.66.217.124/32,DIRECT,no-resolve'
+  - 'IP-CIDR,183.2.133.144/32,DIRECT,no-resolve'
+  - 'IP-CIDR,103.103.245.13/32,DIRECT,no-resolve'
+  - 'DOMAIN,github.moeyy.xyz,DIRECT'
+  - 'DOMAIN,hk.xybhdy.top,DIRECT'
+  - 'DOMAIN,hd1dc.com,DIRECT'
+  - 'RULE-SET,LocalAreaNetwork,DIRECT'
+  - 'RULE-SET,BanAD,REJECT'
+  - 'RULE-SET,BanAdobe,REJECT'
+  - 'RULE-SET,GoogleFCM,🚀 节点选择'
+  - 'RULE-SET,SteamCN,DIRECT'
+  - 'RULE-SET,Microsoft,Ⓜ️ 微软服务'
+  - 'RULE-SET,Apple,🍎 苹果服务'
+  - 'RULE-SET,Telegram,🚀 节点选择'
+  - 'RULE-SET,PikPak,📦 PikPak'
+  - 'RULE-SET,OpenAI,🤖 OpenAI'
+  - 'RULE-SET,Claude,🤖 OpenAI'
+  - 'RULE-SET,Gemini,🤖 OpenAI'
+  - 'RULE-SET,ProxyMedia,🌍 国外媒体'
+  - 'RULE-SET,ProxyClassical,🚀 节点选择'
+  - 'RULE-SET,ChinaCIDR,DIRECT'
+  - 'RULE-SET,ChinaClassical,DIRECT'
+  - 'GEOIP,CN,DIRECT'
+  - 'MATCH,🐟 漏网之鱼'
+rule-providers:
+  Apple: {behavior: classical, interval: 604800, path: ./rules/Apple.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Apple/Apple.yaml'}
+  BanAD: {behavior: domain, interval: 604800, path: ./rules/BanAD.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt'}
+  BanAdobe: {behavior: classical, interval: 604800, path: ./rules/BanAdobe.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/clash.yaml'}
+  ChinaCIDR: {behavior: ipcidr, interval: 604800, path: ./rules/CNCIDR.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt'}
+  ChinaClassical: {behavior: domain, interval: 604800, path: ./rules/ChinaClassical.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt'}
+  Claude: {behavior: classical, interval: 604800, path: ./rules/Claude.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml'}
+  Gemini: {behavior: classical, interval: 604800, path: ./rules/Gemini.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml'}
+  GoogleFCM: {behavior: classical, interval: 604800, path: ./rules/GoogleFCM.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GoogleFCM/GoogleFCM.yaml'}
+  LocalAreaNetwork: {behavior: classical, interval: 604800, path: ./rules/LocalAreaNetwork.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml'}
+  Microsoft: {behavior: classical, interval: 604800, path: ./rules/Microsoft.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Microsoft/Microsoft.yaml'}
+  OpenAI: {behavior: classical, interval: 604800, path: ./rules/OpenAI.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml'}
+  PikPak: {behavior: classical, interval: 604800, path: ./rules/PikPak.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PikPak/PikPak.yaml'}
+  ProxyClassical: {behavior: domain, interval: 604800, path: ./rules/ProxyClassical.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt'}
+  ProxyMedia: {behavior: classical, interval: 604800, path: ./rules/ProxyMedia.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml'}
+  SteamCN: {behavior: classical, interval: 604800, path: ./rules/SteamCN.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/SteamCN/SteamCN.yaml'}
+  Telegram: {behavior: classical, interval: 604800, path: ./rules/Telegram.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml'}
