@@ -13,559 +13,1259 @@ dns:
     - tls://dns.google:853
     - tls://1.0.0.1:853
 proxies:
-  - name: 🔥【交流群@pgkj0402】 🇭🇰 https://t.me/ForceRunVPN--HongKong-1618ms-Global Connectivity
-      Solutions LLP
-    type: vless
-    server: 62.60.232.40
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 📢【频道群@pgkj666】 🇮🇳 https://t.me/ForceRunVPN--Amsterdam-1430ms-Ultahost Inc
-    type: vless
-    server: wa.sfasti.ru
-    port: 443
-    uuid: d4e4c02a-d969-47a6-ba0f-3d433fdac206
-    tls: false
-    servername: wa.sfasti.ru
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Charlotte-876ms-Aeza International LTD
-    type: vless
-    server: 77.110.114.1
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Coventry-954ms-PQ HOSTING PLUS S.R.L.
-    type: vless
-    server: 638947655359338436.birjand-drc-tusaas.info
-    port: 8880
-    uuid: df0680ca-e43c-498d-ed86-8e196eedd012
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Coventry-986ms-PQ HOSTING PLUS S.R.L.
-    type: vless
-    server: 638947655359334556.birjand-drc-tusaas.info
-    port: 8880
-    uuid: df0680ca-e43c-498d-ed86-8e196eedd012
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Dublin-767ms-OVH SAS
-    type: vless
-    server: 141.227.162.18
-    port: 59995
-    uuid: 7467739e-fe86-43a4-93ae-1669886e80d5
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Helsinki-849ms-CREANOVA
-    type: vless
-    server: fin01-vlr01.tcp-reset-club.net
-    port: 443
-    uuid: 80074d6b-23c5-465e-a348-dcf0378fd1f2
-    tls: false
-    servername: hls-svod.itunes.apple.com
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Helsinki-860ms-OVH SAS
-    type: vless
-    server: 141.227.170.131
-    port: 39113
-    uuid: 787979c0-3691-4612-86a1-e0f1101d5eb2
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Helsinki-863ms-OVH SAS
-    type: vless
-    server: 141.227.170.178
-    port: 21232
-    uuid: 5e0eddef-95cd-4109-9807-0f32062939f3
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Helsinki-972ms-Aeza International LTD
-    type: vless
-    server: 84.22.150.195
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Nuremberg-725ms-Hetzner Online GmbH
-    type: vless
-    server: direct-jde6zos4zet26b15zzd1.appcity-download.ir
-    port: 17337
-    uuid: 21441ba7-8364-496c-d43b-39fc7f9cb8d7
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Nuremberg-806ms-Hetzner Online GmbH
-    type: vless
-    server: direct-jde6zos4zet26b15zzd1.appcity-download.ir
-    port: 64286
-    uuid: ca2bbc0a-3139-4a1c-bc93-049ad63c1d95
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Reston-551ms-Cloudflare Inc.
-    type: vless
-    server: 172.67.168.193
-    port: 80
-    uuid: 9096805c-e6b8-4da9-9bdc-d76e392e6630
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Reston-565ms-Cloudflare Inc.
-    type: vless
-    server: 162.159.43.92
-    port: 443
-    uuid: 0c0537c3-f0fb-40e6-bd59-f5038e1855ed
-    tls: true
-    servername: juzi.634676.xyz
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Reston-573ms-Cloudflare Inc.
-    type: vless
-    server: 172.67.168.193
-    port: 443
-    uuid: 9096805c-e6b8-4da9-9bdc-d76e392e6630
-    tls: true
-    servername: gamang.gpj2.dpdns.org
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Reston-578ms-Cloudflare Inc.
-    type: vless
-    server: 172.67.168.193
-    port: 443
-    uuid: a50ea41d-10b1-4351-9ae2-6d92f501a3a0
-    tls: true
-    servername: gamang.gpj2.dpdns.org
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Reston-589ms-Cloudflare Inc.
-    type: vless
-    server: 172.67.168.193
-    port: 443
-    uuid: a284517f-486f-4e38-80b1-96b99030199a
-    tls: true
-    servername: gamang.gpj2.dpdns.org
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Reston-596ms-Cloudflare Inc.
-    type: vless
-    server: 104.20.30.132
-    port: 443
-    uuid: 41b55c53-7776-4727-b05d-1ccf9cc409a5
-    tls: true
-    servername: gamang.gpj2.dpdns.org
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Vienna-936ms-Aeza International LTD
-    type: vless
-    server: 94.228.169.221
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Wheaton-143ms-Cloudflare Inc.
+  - name: 🔥【交流群@pgkj0402】 01-香港高速1
     type: trojan
-    server: 172.67.168.193
-    port: 443
-    password: a50ea41d-10b1-4351-9ae2-6d92f501a3a0
-    sni: gamang.gpj2.dpdns.org
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
     skip-cert-verify: true
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Wheaton-155ms-Cloudflare Inc.
+  - name: 📢【频道群@pgkj666】 02-香港高速1
     type: trojan
-    server: 104.21.70.241
-    port: 443
-    password: abd16f44-12ca-4078-8345-11bcb4cd0fbd
-    sni: gamang.gpj2.dpdns.org
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
     skip-cert-verify: true
-  - name: 🇮🇳 https://t.me/ForceRunVPN--Wheaton-162ms-Cloudflare Inc.
+  - name: 03-香港高速1
     type: trojan
-    server: 172.67.168.193
-    port: 443
-    password: 9096805c-e6b8-4da9-9bdc-d76e392e6630
-    sni: gamang.gpj2.dpdns.org
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
     skip-cert-verify: true
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Brussels-3293ms-OVH SAS
-    type: vless
-    server: 141.227.136.29
-    port: 13833
-    uuid: b33105c5-e37d-4ad1-a3b9-102390b3e1b8
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Bucharest-906ms-OVH SAS
-    type: vless
-    server: 141.227.180.86
-    port: 43239
-    uuid: 0001e585-a648-4db2-8c9e-af346110c642
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Bucharest-917ms-OVH SAS
-    type: vless
-    server: 141.227.180.39
-    port: 22287
-    uuid: 312b10a5-a604-4199-bf43-6a773e8b24e4
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Copenhagen-852ms-OVH SAS
-    type: vless
-    server: 141.227.172.59
-    port: 14078
-    uuid: eeb94a25-8f00-458f-b857-34736edc97d4
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Lisbon-852ms-OVH SAS
-    type: vless
-    server: 141.227.176.171
-    port: 36090
-    uuid: 8347825d-e85b-4735-b27d-7c60ca32bd0c
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Manchester-768ms-OVH SAS
-    type: vless
-    server: 141.227.174.221
-    port: 18409
-    uuid: 5342a980-50a4-4daa-9c45-e83f2ebab024
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Manchester-791ms-OVH SAS
-    type: vless
-    server: 141.227.174.234
-    port: 47765
-    uuid: 5dd4bf42-5df0-49ff-bd5b-3a4fb6f7f1db
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Milan-1000ms-OVH SAS
-    type: vless
-    server: 141.227.140.74
-    port: 33468
-    uuid: 75c3f12e-bdcd-43e0-a9bb-3f1d95911966
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Oslo-800ms-OVH SAS
-    type: vless
-    server: 141.227.166.78
-    port: 35728
-    uuid: 7bd98eb6-5408-492c-a9f2-54776a68aeb6
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Oslo-801ms-OVH SAS
-    type: vless
-    server: 141.227.166.55
-    port: 20421
-    uuid: a9a5a7ed-d852-4b3b-af5d-6e8d721300b5
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Paris-794ms-OVH SAS
-    type: vless
-    server: 141.227.132.199
-    port: 42817
-    uuid: f7df6c83-e527-4bb2-bae1-ea743edaffcd
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Prague-1114ms-OVH SAS
-    type: vless
-    server: 141.227.134.241
-    port: 13905
-    uuid: 9eecee32-1abb-42db-b296-af0168c17412
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Prague-808ms-OVH SAS
-    type: vless
-    server: 141.227.134.240
-    port: 54983
-    uuid: 6016845b-61d0-49c5-b20c-d61e860778d4
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Prague-814ms-OVH SAS
-    type: vless
-    server: 141.227.134.93
-    port: 37847
-    uuid: ca94dd31-f3f4-4287-87eb-012ef38c0186
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Roubaix-947ms-OVH SAS
-    type: vless
-    server: 51.178.253.133
-    port: 22808
-    uuid: 713f6b9e-6200-405d-9ca8-77bc45be625b
-    tls: false
-    servername: ''
-    flow: ''
-    encryption: none
-  - name: 🇸🇦 https://t.me/ForceRunVPN--Warsaw-940ms-Newserverlife LLC
-    type: vless
-    server: 45.144.51.23
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Amsterdam-313ms-Timeweb LLP
-    type: ss
-    server: 5.129.231.197
-    port: 46024
-    cipher: chacha20-ietf-poly1305
-    password: V23RaFkRzP8c88y0VzOj0F
-    plugin: ''
-    plugin-opts: {}
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Amsterdam-898ms-Global Connectivity Solutions
-      LLP
-    type: vless
-    server: 194.87.31.155
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Dubai-1446ms-M247 Europe SRL
-    type: vless
-    server: 38.180.27.102
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Dubai-974ms-Global Connectivity Solutions LLP
-    type: vless
-    server: 5.44.42.60
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Istanbul-1480ms-Global Connectivity Solutions
-      LLP
-    type: vless
-    server: 62.133.63.138
-    port: 443
-    uuid: 8377aac9-f3b3-42df-a5ea-9254f37e7b34
-    tls: false
-    servername: tr.eu-ffast.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Nuremberg-3352ms-netcup GmbH
-    type: vless
-    server: 193.151.135.21
-    port: 44443
-    uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33
-    tls: false
-    servername: www.speedtest.net
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Paris-869ms-Global Connectivity Solutions LLP
-    type: vless
-    server: 45.95.233.8
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--SãoPaulo-1613ms-Global Connectivity Solutions
-      LLP
-    type: vless
-    server: 147.45.116.72
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--TelAviv-1016ms-Microsoft Corporation
-    type: vless
-    server: ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz
-    port: 443
-    uuid: 0e8a6896-ad90-4a3b-89a3-77d64aa409e2
-    tls: false
-    servername: i2pd.website
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Tokyo-1579ms-Global Connectivity Solutions
-      LLP
-    type: vless
-    server: 147.45.49.17
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Toronto-917ms-Global Connectivity Solutions
-      LLP
-    type: vless
-    server: 81.19.140.20
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--VianadoCastelo-1063ms-Global Connectivity Solutions
-      LLP
-    type: vless
-    server: 31.129.22.117
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇷🇺 https://t.me/ForceRunVPN--Zagreb-1034ms-Global Connectivity Solutions
-      LLP
-    type: vless
-    server: 5.181.2.51
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇮🇱 https://t.me/ForceRunVPN--Vilnius-1008ms-Global Connectivity Solutions
-      LLP
-    type: vless
-    server: 147.45.217.250
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇮🇱 https://t.me/ForceRunVPN--Vilnius-934ms-Global Connectivity Solutions
-      LLP
-    type: vless
-    server: 195.66.25.21
-    port: 8080
-    uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
-    tls: false
-    servername: yandex.com
-    flow: ''
-    encryption: none
-  - name: 🇹🇭 https://t.me/ForceRunVPN--NorthBergen-684ms-DigitalOcean LLC
-    type: vless
-    server: ipw.gfdv54cvghhgfhgj-njhgj64.info
-    port: 443
-    uuid: 44e16031-bde2-407a-b629-ae4b84e7e49f
-    tls: true
-    servername: smits.feronix.org
-    flow: ''
-    encryption: none
+  - name: 04-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-距离下次重置剩余：22 天
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-距离下次重置剩余：22 天
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-距离下次重置剩余：22 天
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
 proxy-groups:
   - name: '🚀 节点选择'
     type: select
     proxies:
-      - 🔥【交流群@pgkj0402】 🇭🇰 https://t.me/ForceRunVPN--HongKong-1618ms-Global Connectivity
-        Solutions LLP
-      - 🇮🇱 https://t.me/ForceRunVPN--Vilnius-1008ms-Global Connectivity Solutions
-        LLP
-      - 🇮🇱 https://t.me/ForceRunVPN--Vilnius-934ms-Global Connectivity Solutions LLP
-      - 🇮🇳 https://t.me/ForceRunVPN--Charlotte-876ms-Aeza International LTD
-      - 🇮🇳 https://t.me/ForceRunVPN--Coventry-954ms-PQ HOSTING PLUS S.R.L.
-      - 🇮🇳 https://t.me/ForceRunVPN--Coventry-986ms-PQ HOSTING PLUS S.R.L.
-      - 🇮🇳 https://t.me/ForceRunVPN--Dublin-767ms-OVH SAS
-      - 🇮🇳 https://t.me/ForceRunVPN--Helsinki-849ms-CREANOVA
-      - 🇮🇳 https://t.me/ForceRunVPN--Helsinki-860ms-OVH SAS
-      - 🇮🇳 https://t.me/ForceRunVPN--Helsinki-863ms-OVH SAS
-      - 🇮🇳 https://t.me/ForceRunVPN--Helsinki-972ms-Aeza International LTD
-      - 🇮🇳 https://t.me/ForceRunVPN--Nuremberg-725ms-Hetzner Online GmbH
-      - 🇮🇳 https://t.me/ForceRunVPN--Nuremberg-806ms-Hetzner Online GmbH
-      - 🇮🇳 https://t.me/ForceRunVPN--Reston-551ms-Cloudflare Inc.
-      - 🇮🇳 https://t.me/ForceRunVPN--Reston-565ms-Cloudflare Inc.
-      - 🇮🇳 https://t.me/ForceRunVPN--Reston-573ms-Cloudflare Inc.
-      - 🇮🇳 https://t.me/ForceRunVPN--Reston-578ms-Cloudflare Inc.
-      - 🇮🇳 https://t.me/ForceRunVPN--Reston-589ms-Cloudflare Inc.
-      - 🇮🇳 https://t.me/ForceRunVPN--Reston-596ms-Cloudflare Inc.
-      - 🇮🇳 https://t.me/ForceRunVPN--Vienna-936ms-Aeza International LTD
-      - 🇮🇳 https://t.me/ForceRunVPN--Wheaton-143ms-Cloudflare Inc.
-      - 🇮🇳 https://t.me/ForceRunVPN--Wheaton-155ms-Cloudflare Inc.
-      - 🇮🇳 https://t.me/ForceRunVPN--Wheaton-162ms-Cloudflare Inc.
-      - 🇷🇺 https://t.me/ForceRunVPN--Amsterdam-313ms-Timeweb LLP
-      - 🇷🇺 https://t.me/ForceRunVPN--Amsterdam-898ms-Global Connectivity Solutions
-        LLP
-      - 🇷🇺 https://t.me/ForceRunVPN--Dubai-1446ms-M247 Europe SRL
-      - 🇷🇺 https://t.me/ForceRunVPN--Dubai-974ms-Global Connectivity Solutions LLP
-      - 🇷🇺 https://t.me/ForceRunVPN--Istanbul-1480ms-Global Connectivity Solutions
-        LLP
-      - 🇷🇺 https://t.me/ForceRunVPN--Nuremberg-3352ms-netcup GmbH
-      - 🇷🇺 https://t.me/ForceRunVPN--Paris-869ms-Global Connectivity Solutions LLP
-      - 🇷🇺 https://t.me/ForceRunVPN--SãoPaulo-1613ms-Global Connectivity Solutions
-        LLP
-      - 🇷🇺 https://t.me/ForceRunVPN--TelAviv-1016ms-Microsoft Corporation
-      - 🇷🇺 https://t.me/ForceRunVPN--Tokyo-1579ms-Global Connectivity Solutions LLP
-      - 🇷🇺 https://t.me/ForceRunVPN--Toronto-917ms-Global Connectivity Solutions LLP
-      - 🇷🇺 https://t.me/ForceRunVPN--VianadoCastelo-1063ms-Global Connectivity Solutions
-        LLP
-      - 🇷🇺 https://t.me/ForceRunVPN--Zagreb-1034ms-Global Connectivity Solutions LLP
-      - 🇸🇦 https://t.me/ForceRunVPN--Brussels-3293ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Bucharest-906ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Bucharest-917ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Copenhagen-852ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Lisbon-852ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Manchester-768ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Manchester-791ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Milan-1000ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Oslo-800ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Oslo-801ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Paris-794ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Prague-1114ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Prague-808ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Prague-814ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Roubaix-947ms-OVH SAS
-      - 🇸🇦 https://t.me/ForceRunVPN--Warsaw-940ms-Newserverlife LLC
-      - 🇹🇭 https://t.me/ForceRunVPN--NorthBergen-684ms-DigitalOcean LLC
-      - 📢【频道群@pgkj666】 🇮🇳 https://t.me/ForceRunVPN--Amsterdam-1430ms-Ultahost Inc
+      - 🇭🇰 香港高速1
+      - 🇭🇰 香港高速2
+      - 🇸🇬 新加坡隧道
+      - 🇯🇵 日本三 isp 解锁openai
+      - 🇯🇵 日本二 isp 解锁openai
+      - 🇯🇵 日本四 isp 解锁openai
+      - 🇹🇼 台湾一 isp 解锁openai
+      - 🇰🇷 韩国二 isp 解锁openai
+      - 🇺🇸 美国洛杉矶
+      - 🇺🇸 美国纽约
+      - 🇺🇸 美国西雅图
+      - 🇬🇧 英国一 isp 解锁openai
+      - 🇹🇭 泰国一 isp 解锁openai
+      - 🇻🇳 越南一 isp 解锁openai
+      - 🏴‍☠️ 续费 https://baigou999.cc/
+      - 🏴‍☠️ 联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 🏴‍☠️ 距离下次重置剩余：22 天
   - name: '🌍 国外媒体'
     type: select
     proxies: ['🚀 节点选择', '🎯 全球直连']
@@ -587,6 +1287,301 @@ proxy-groups:
   - name: '🎯 全球直连'
     type: select
     proxies: [DIRECT]
+  - name: 🇭🇰 香港高速1
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 🔥【交流群@pgkj0402】 01-香港高速1
+      - 📢【频道群@pgkj666】 02-香港高速1
+      - 03-香港高速1
+      - 04-香港高速1
+      - 05-香港高速1
+      - 06-香港高速1
+      - 07-香港高速1
+      - 08-香港高速1
+      - 09-香港高速1
+      - 10-香港高速1
+      - 11-香港高速1
+  - name: 🇭🇰 香港高速2
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-香港高速2
+      - 02-香港高速2
+      - 03-香港高速2
+      - 04-香港高速2
+      - 05-香港高速2
+      - 06-香港高速2
+      - 07-香港高速2
+      - 08-香港高速2
+      - 09-香港高速2
+      - 10-香港高速2
+      - 11-香港高速2
+  - name: 🇸🇬 新加坡隧道
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-新加坡隧道
+      - 02-新加坡隧道
+      - 03-新加坡隧道
+      - 04-新加坡隧道
+      - 05-新加坡隧道
+      - 06-新加坡隧道
+      - 07-新加坡隧道
+      - 08-新加坡隧道
+      - 09-新加坡隧道
+      - 10-新加坡隧道
+      - 11-新加坡隧道
+  - name: 🇯🇵 日本三 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-日本三 isp 解锁openai
+      - 02-日本三 isp 解锁openai
+      - 03-日本三 isp 解锁openai
+      - 04-日本三 isp 解锁openai
+      - 05-日本三 isp 解锁openai
+      - 06-日本三 isp 解锁openai
+      - 07-日本三 isp 解锁openai
+      - 08-日本三 isp 解锁openai
+      - 09-日本三 isp 解锁openai
+      - 10-日本三 isp 解锁openai
+      - 11-日本三 isp 解锁openai
+  - name: 🇯🇵 日本二 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-日本二 isp 解锁openai
+      - 02-日本二 isp 解锁openai
+      - 03-日本二 isp 解锁openai
+      - 04-日本二 isp 解锁openai
+      - 05-日本二 isp 解锁openai
+      - 06-日本二 isp 解锁openai
+      - 07-日本二 isp 解锁openai
+      - 08-日本二 isp 解锁openai
+      - 09-日本二 isp 解锁openai
+      - 10-日本二 isp 解锁openai
+      - 11-日本二 isp 解锁openai
+  - name: 🇯🇵 日本四 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-日本四 isp 解锁openai
+      - 02-日本四 isp 解锁openai
+      - 03-日本四 isp 解锁openai
+      - 04-日本四 isp 解锁openai
+      - 05-日本四 isp 解锁openai
+      - 06-日本四 isp 解锁openai
+      - 07-日本四 isp 解锁openai
+      - 08-日本四 isp 解锁openai
+      - 09-日本四 isp 解锁openai
+      - 10-日本四 isp 解锁openai
+      - 11-日本四 isp 解锁openai
+  - name: 🇹🇼 台湾一 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-台湾一 isp 解锁openai
+      - 02-台湾一 isp 解锁openai
+      - 03-台湾一 isp 解锁openai
+      - 04-台湾一 isp 解锁openai
+      - 05-台湾一 isp 解锁openai
+      - 06-台湾一 isp 解锁openai
+      - 07-台湾一 isp 解锁openai
+      - 08-台湾一 isp 解锁openai
+      - 09-台湾一 isp 解锁openai
+      - 10-台湾一 isp 解锁openai
+      - 11-台湾一 isp 解锁openai
+  - name: 🇰🇷 韩国二 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-韩国二 isp 解锁openai
+      - 02-韩国二 isp 解锁openai
+      - 03-韩国二 isp 解锁openai
+      - 04-韩国二 isp 解锁openai
+      - 05-韩国二 isp 解锁openai
+      - 06-韩国二 isp 解锁openai
+      - 07-韩国二 isp 解锁openai
+      - 08-韩国二 isp 解锁openai
+      - 09-韩国二 isp 解锁openai
+      - 10-韩国二 isp 解锁openai
+      - 11-韩国二 isp 解锁openai
+  - name: 🇺🇸 美国洛杉矶
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-美国洛杉矶
+      - 02-美国洛杉矶
+      - 03-美国洛杉矶
+      - 04-美国洛杉矶
+      - 05-美国洛杉矶
+      - 06-美国洛杉矶
+      - 07-美国洛杉矶
+      - 08-美国洛杉矶
+      - 09-美国洛杉矶
+      - 10-美国洛杉矶
+      - 11-美国洛杉矶
+  - name: 🇺🇸 美国纽约
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-美国纽约
+      - 02-美国纽约
+      - 03-美国纽约
+      - 04-美国纽约
+      - 05-美国纽约
+      - 06-美国纽约
+      - 07-美国纽约
+      - 08-美国纽约
+      - 09-美国纽约
+      - 10-美国纽约
+      - 11-美国纽约
+  - name: 🇺🇸 美国西雅图
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-美国西雅图
+      - 02-美国西雅图
+      - 03-美国西雅图
+      - 04-美国西雅图
+      - 05-美国西雅图
+      - 06-美国西雅图
+      - 07-美国西雅图
+      - 08-美国西雅图
+      - 09-美国西雅图
+      - 10-美国西雅图
+      - 11-美国西雅图
+  - name: 🏴‍☠️ 续费 https://baigou999.cc/
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-续费 https://baigou999.cc/
+      - 02-续费 https://baigou999.cc/
+      - 03-续费 https://baigou999.cc/
+      - 04-续费 https://baigou999.cc/
+      - 05-续费 https://baigou999.cc/
+      - 06-续费 https://baigou999.cc/
+      - 07-续费 https://baigou999.cc/
+      - 08-续费 https://baigou999.cc/
+  - name: 🏴‍☠️ 联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 02-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 03-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 04-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 05-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 06-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 07-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 08-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 09-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 10-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 11-联系不上客服，清除缓存，用无痕模式打开网址！！！
+  - name: 🏴‍☠️ 距离下次重置剩余：22 天
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-距离下次重置剩余：22 天
+      - 02-距离下次重置剩余：22 天
+      - 03-距离下次重置剩余：22 天
+  - name: 🇻🇳 越南一 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-越南一 isp 解锁openai
+      - 02-越南一 isp 解锁openai
+      - 03-越南一 isp 解锁openai
+      - 04-越南一 isp 解锁openai
+      - 05-越南一 isp 解锁openai
+      - 06-越南一 isp 解锁openai
+      - 07-越南一 isp 解锁openai
+      - 08-越南一 isp 解锁openai
+      - 09-越南一 isp 解锁openai
+      - 10-越南一 isp 解锁openai
+      - 11-越南一 isp 解锁openai
+  - name: 🇹🇭 泰国一 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-泰国一 isp 解锁openai
+      - 02-泰国一 isp 解锁openai
+      - 03-泰国一 isp 解锁openai
+      - 04-泰国一 isp 解锁openai
+      - 05-泰国一 isp 解锁openai
+      - 06-泰国一 isp 解锁openai
+      - 07-泰国一 isp 解锁openai
+      - 08-泰国一 isp 解锁openai
+      - 09-泰国一 isp 解锁openai
+      - 10-泰国一 isp 解锁openai
+      - 11-泰国一 isp 解锁openai
+  - name: 🇬🇧 英国一 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-英国一 isp 解锁openai
+      - 02-英国一 isp 解锁openai
+      - 03-英国一 isp 解锁openai
+      - 04-英国一 isp 解锁openai
+      - 05-英国一 isp 解锁openai
+      - 06-英国一 isp 解锁openai
+      - 07-英国一 isp 解锁openai
+      - 08-英国一 isp 解锁openai
+      - 09-英国一 isp 解锁openai
+      - 10-英国一 isp 解锁openai
+      - 11-英国一 isp 解锁openai
 rules:
   - 'IP-CIDR,129.146.160.80/32,DIRECT,no-resolve'
   - 'IP-CIDR,148.135.52.61/32,DIRECT,no-resolve'
