@@ -1,0 +1,1652 @@
+dns:
+  enable: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  nameserver-policy:
+    'ChinaClassical,Apple,SteamCN,geosite:cn':
+      - tls://1.12.12.12
+      - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 1.1.1.1
+    - tls://dns.google:853
+    - tls://1.0.0.1:853
+proxies:
+  - name: 🔥【交流群@pgkj0402】 01-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 📢【频道群@pgkj666】 02-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-香港高速1
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21863
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-香港高速2
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21866
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-新加坡隧道
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21877
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-日本三 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21868
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-日本二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21867
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-日本四 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21869
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-台湾一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21878
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-韩国二 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21871
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-美国洛杉矶
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 27865
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-美国纽约
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21864
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-美国西雅图
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21865
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-续费 https://baigou999.cc/
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21891
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-距离下次重置剩余：22 天
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-距离下次重置剩余：22 天
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-距离下次重置剩余：22 天
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21862
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-越南一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21870
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-泰国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21874
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 01-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 02-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 35703011-ed89-4c91-8aa0-31da31e9330a
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 03-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 04-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 05-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 06-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 07-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 08-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 09-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 10-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
+    sni: douyin.com
+    skip-cert-verify: true
+  - name: 11-英国一 isp 解锁openai
+    type: trojan
+    server: baigou1.kkieo555.cn
+    port: 21876
+    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
+    sni: douyin.com
+    skip-cert-verify: true
+proxy-groups:
+  - name: '🚀 节点选择'
+    type: select
+    proxies:
+      - 🇭🇰 香港高速1
+      - 🇭🇰 香港高速2
+      - 🇸🇬 新加坡隧道
+      - 🇯🇵 日本三 isp 解锁openai
+      - 🇯🇵 日本二 isp 解锁openai
+      - 🇯🇵 日本四 isp 解锁openai
+      - 🇹🇼 台湾一 isp 解锁openai
+      - 🇰🇷 韩国二 isp 解锁openai
+      - 🇺🇸 美国洛杉矶
+      - 🇺🇸 美国纽约
+      - 🇺🇸 美国西雅图
+      - 🇬🇧 英国一 isp 解锁openai
+      - 🇹🇭 泰国一 isp 解锁openai
+      - 🇻🇳 越南一 isp 解锁openai
+      - 🏴‍☠️ 续费 https://baigou999.cc/
+      - 🏴‍☠️ 联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 🏴‍☠️ 距离下次重置剩余：22 天
+  - name: '🌍 国外媒体'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: 'Ⓜ️ 微软服务'
+    type: select
+    proxies: ['🎯 全球直连', '🚀 节点选择']
+  - name: '🍎 苹果服务'
+    type: select
+    proxies: ['🎯 全球直连', '🚀 节点选择']
+  - name: '📦 PikPak'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🤖 OpenAI'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🐟 漏网之鱼'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🎯 全球直连'
+    type: select
+    proxies: [DIRECT]
+  - name: 🇭🇰 香港高速1
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 🔥【交流群@pgkj0402】 01-香港高速1
+      - 📢【频道群@pgkj666】 02-香港高速1
+      - 03-香港高速1
+      - 04-香港高速1
+      - 05-香港高速1
+      - 06-香港高速1
+      - 07-香港高速1
+      - 08-香港高速1
+      - 09-香港高速1
+      - 10-香港高速1
+      - 11-香港高速1
+  - name: 🇭🇰 香港高速2
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-香港高速2
+      - 02-香港高速2
+      - 03-香港高速2
+      - 04-香港高速2
+      - 05-香港高速2
+      - 06-香港高速2
+      - 07-香港高速2
+      - 08-香港高速2
+      - 09-香港高速2
+      - 10-香港高速2
+      - 11-香港高速2
+  - name: 🇸🇬 新加坡隧道
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-新加坡隧道
+      - 02-新加坡隧道
+      - 03-新加坡隧道
+      - 04-新加坡隧道
+      - 05-新加坡隧道
+      - 06-新加坡隧道
+      - 07-新加坡隧道
+      - 08-新加坡隧道
+      - 09-新加坡隧道
+      - 10-新加坡隧道
+      - 11-新加坡隧道
+  - name: 🇯🇵 日本三 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-日本三 isp 解锁openai
+      - 02-日本三 isp 解锁openai
+      - 03-日本三 isp 解锁openai
+      - 04-日本三 isp 解锁openai
+      - 05-日本三 isp 解锁openai
+      - 06-日本三 isp 解锁openai
+      - 07-日本三 isp 解锁openai
+      - 08-日本三 isp 解锁openai
+      - 09-日本三 isp 解锁openai
+      - 10-日本三 isp 解锁openai
+      - 11-日本三 isp 解锁openai
+  - name: 🇯🇵 日本二 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-日本二 isp 解锁openai
+      - 02-日本二 isp 解锁openai
+      - 03-日本二 isp 解锁openai
+      - 04-日本二 isp 解锁openai
+      - 05-日本二 isp 解锁openai
+      - 06-日本二 isp 解锁openai
+      - 07-日本二 isp 解锁openai
+      - 08-日本二 isp 解锁openai
+      - 09-日本二 isp 解锁openai
+      - 10-日本二 isp 解锁openai
+      - 11-日本二 isp 解锁openai
+  - name: 🇯🇵 日本四 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-日本四 isp 解锁openai
+      - 02-日本四 isp 解锁openai
+      - 03-日本四 isp 解锁openai
+      - 04-日本四 isp 解锁openai
+      - 05-日本四 isp 解锁openai
+      - 06-日本四 isp 解锁openai
+      - 07-日本四 isp 解锁openai
+      - 08-日本四 isp 解锁openai
+      - 09-日本四 isp 解锁openai
+      - 10-日本四 isp 解锁openai
+      - 11-日本四 isp 解锁openai
+  - name: 🇹🇼 台湾一 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-台湾一 isp 解锁openai
+      - 02-台湾一 isp 解锁openai
+      - 03-台湾一 isp 解锁openai
+      - 04-台湾一 isp 解锁openai
+      - 05-台湾一 isp 解锁openai
+      - 06-台湾一 isp 解锁openai
+      - 07-台湾一 isp 解锁openai
+      - 08-台湾一 isp 解锁openai
+      - 09-台湾一 isp 解锁openai
+      - 10-台湾一 isp 解锁openai
+      - 11-台湾一 isp 解锁openai
+  - name: 🇰🇷 韩国二 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-韩国二 isp 解锁openai
+      - 02-韩国二 isp 解锁openai
+      - 03-韩国二 isp 解锁openai
+      - 04-韩国二 isp 解锁openai
+      - 05-韩国二 isp 解锁openai
+      - 06-韩国二 isp 解锁openai
+      - 07-韩国二 isp 解锁openai
+      - 08-韩国二 isp 解锁openai
+      - 09-韩国二 isp 解锁openai
+      - 10-韩国二 isp 解锁openai
+      - 11-韩国二 isp 解锁openai
+  - name: 🇺🇸 美国洛杉矶
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-美国洛杉矶
+      - 02-美国洛杉矶
+      - 03-美国洛杉矶
+      - 04-美国洛杉矶
+      - 05-美国洛杉矶
+      - 06-美国洛杉矶
+      - 07-美国洛杉矶
+      - 08-美国洛杉矶
+      - 09-美国洛杉矶
+      - 10-美国洛杉矶
+      - 11-美国洛杉矶
+  - name: 🇺🇸 美国纽约
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-美国纽约
+      - 02-美国纽约
+      - 03-美国纽约
+      - 04-美国纽约
+      - 05-美国纽约
+      - 06-美国纽约
+      - 07-美国纽约
+      - 08-美国纽约
+      - 09-美国纽约
+      - 10-美国纽约
+      - 11-美国纽约
+  - name: 🇺🇸 美国西雅图
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-美国西雅图
+      - 02-美国西雅图
+      - 03-美国西雅图
+      - 04-美国西雅图
+      - 05-美国西雅图
+      - 06-美国西雅图
+      - 07-美国西雅图
+      - 08-美国西雅图
+      - 09-美国西雅图
+      - 10-美国西雅图
+      - 11-美国西雅图
+  - name: 🏴‍☠️ 续费 https://baigou999.cc/
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-续费 https://baigou999.cc/
+      - 02-续费 https://baigou999.cc/
+      - 03-续费 https://baigou999.cc/
+      - 04-续费 https://baigou999.cc/
+      - 05-续费 https://baigou999.cc/
+      - 06-续费 https://baigou999.cc/
+      - 07-续费 https://baigou999.cc/
+      - 08-续费 https://baigou999.cc/
+  - name: 🏴‍☠️ 联系不上客服，清除缓存，用无痕模式打开网址！！！
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 02-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 03-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 04-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 05-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 06-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 07-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 08-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 09-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 10-联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 11-联系不上客服，清除缓存，用无痕模式打开网址！！！
+  - name: 🏴‍☠️ 距离下次重置剩余：22 天
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-距离下次重置剩余：22 天
+      - 02-距离下次重置剩余：22 天
+      - 03-距离下次重置剩余：22 天
+  - name: 🇻🇳 越南一 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-越南一 isp 解锁openai
+      - 02-越南一 isp 解锁openai
+      - 03-越南一 isp 解锁openai
+      - 04-越南一 isp 解锁openai
+      - 05-越南一 isp 解锁openai
+      - 06-越南一 isp 解锁openai
+      - 07-越南一 isp 解锁openai
+      - 08-越南一 isp 解锁openai
+      - 09-越南一 isp 解锁openai
+      - 10-越南一 isp 解锁openai
+      - 11-越南一 isp 解锁openai
+  - name: 🇹🇭 泰国一 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-泰国一 isp 解锁openai
+      - 02-泰国一 isp 解锁openai
+      - 03-泰国一 isp 解锁openai
+      - 04-泰国一 isp 解锁openai
+      - 05-泰国一 isp 解锁openai
+      - 06-泰国一 isp 解锁openai
+      - 07-泰国一 isp 解锁openai
+      - 08-泰国一 isp 解锁openai
+      - 09-泰国一 isp 解锁openai
+      - 10-泰国一 isp 解锁openai
+      - 11-泰国一 isp 解锁openai
+  - name: 🇬🇧 英国一 isp 解锁openai
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-英国一 isp 解锁openai
+      - 02-英国一 isp 解锁openai
+      - 03-英国一 isp 解锁openai
+      - 04-英国一 isp 解锁openai
+      - 05-英国一 isp 解锁openai
+      - 06-英国一 isp 解锁openai
+      - 07-英国一 isp 解锁openai
+      - 08-英国一 isp 解锁openai
+      - 09-英国一 isp 解锁openai
+      - 10-英国一 isp 解锁openai
+      - 11-英国一 isp 解锁openai
+rules:
+  - 'IP-CIDR,129.146.160.80/32,DIRECT,no-resolve'
+  - 'IP-CIDR,148.135.52.61/32,DIRECT,no-resolve'
+  - 'IP-CIDR,148.135.56.101/32,DIRECT,no-resolve'
+  - 'IP-CIDR,37.123.193.133/32,DIRECT,no-resolve'
+  - 'IP-CIDR,111.119.203.69/32,DIRECT,no-resolve'
+  - 'IP-CIDR,110.238.105.126/32,DIRECT,no-resolve'
+  - 'IP-CIDR,166.108.206.148/32,DIRECT,no-resolve'
+  - 'IP-CIDR,155.248.181.42/32,DIRECT,no-resolve'
+  - 'IP-CIDR,176.126.114.184/32,DIRECT,no-resolve'
+  - 'IP-CIDR,103.238.129.152/32,DIRECT,no-resolve'
+  - 'IP-CIDR,45.66.217.124/32,DIRECT,no-resolve'
+  - 'IP-CIDR,183.2.133.144/32,DIRECT,no-resolve'
+  - 'IP-CIDR,103.103.245.13/32,DIRECT,no-resolve'
+  - 'DOMAIN,github.moeyy.xyz,DIRECT'
+  - 'DOMAIN,hk.xybhdy.top,DIRECT'
+  - 'DOMAIN,hd1dc.com,DIRECT'
+  - 'RULE-SET,LocalAreaNetwork,DIRECT'
+  - 'RULE-SET,BanAD,REJECT'
+  - 'RULE-SET,BanAdobe,REJECT'
+  - 'RULE-SET,GoogleFCM,🚀 节点选择'
+  - 'RULE-SET,SteamCN,DIRECT'
+  - 'RULE-SET,Microsoft,Ⓜ️ 微软服务'
+  - 'RULE-SET,Apple,🍎 苹果服务'
+  - 'RULE-SET,Telegram,🚀 节点选择'
+  - 'RULE-SET,PikPak,📦 PikPak'
+  - 'RULE-SET,OpenAI,🤖 OpenAI'
+  - 'RULE-SET,Claude,🤖 OpenAI'
+  - 'RULE-SET,Gemini,🤖 OpenAI'
+  - 'RULE-SET,ProxyMedia,🌍 国外媒体'
+  - 'RULE-SET,ProxyClassical,🚀 节点选择'
+  - 'RULE-SET,ChinaCIDR,DIRECT'
+  - 'RULE-SET,ChinaClassical,DIRECT'
+  - 'GEOIP,CN,DIRECT'
+  - 'MATCH,🐟 漏网之鱼'
+rule-providers:
+  Apple: {behavior: classical, interval: 604800, path: ./rules/Apple.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Apple/Apple.yaml'}
+  BanAD: {behavior: domain, interval: 604800, path: ./rules/BanAD.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt'}
+  BanAdobe: {behavior: classical, interval: 604800, path: ./rules/BanAdobe.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/clash.yaml'}
+  ChinaCIDR: {behavior: ipcidr, interval: 604800, path: ./rules/CNCIDR.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt'}
+  ChinaClassical: {behavior: domain, interval: 604800, path: ./rules/ChinaClassical.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt'}
+  Claude: {behavior: classical, interval: 604800, path: ./rules/Claude.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml'}
+  Gemini: {behavior: classical, interval: 604800, path: ./rules/Gemini.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml'}
+  GoogleFCM: {behavior: classical, interval: 604800, path: ./rules/GoogleFCM.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GoogleFCM/GoogleFCM.yaml'}
+  LocalAreaNetwork: {behavior: classical, interval: 604800, path: ./rules/LocalAreaNetwork.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml'}
+  Microsoft: {behavior: classical, interval: 604800, path: ./rules/Microsoft.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Microsoft/Microsoft.yaml'}
+  OpenAI: {behavior: classical, interval: 604800, path: ./rules/OpenAI.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml'}
+  PikPak: {behavior: classical, interval: 604800, path: ./rules/PikPak.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PikPak/PikPak.yaml'}
+  ProxyClassical: {behavior: domain, interval: 604800, path: ./rules/ProxyClassical.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt'}
+  ProxyMedia: {behavior: classical, interval: 604800, path: ./rules/ProxyMedia.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml'}
+  SteamCN: {behavior: classical, interval: 604800, path: ./rules/SteamCN.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/SteamCN/SteamCN.yaml'}
+  Telegram: {behavior: classical, interval: 604800, path: ./rules/Telegram.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml'}
