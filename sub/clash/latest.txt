@@ -13,1259 +13,1631 @@ dns:
     - tls://dns.google:853
     - tls://1.0.0.1:853
 proxies:
-  - name: 🔥【交流群@pgkj0402】 01-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 📢【频道群@pgkj666】 02-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-香港高速1
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21863
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-香港高速2
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21866
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-新加坡隧道
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21877
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-日本三 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21868
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-日本二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21867
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-日本四 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21869
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-台湾一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21878
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-韩国二 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21871
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-美国洛杉矶
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 27865
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-美国纽约
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21864
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-美国西雅图
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21865
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-续费 https://baigou999.cc/
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-续费 https://baigou999.cc/
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-续费 https://baigou999.cc/
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-续费 https://baigou999.cc/
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-续费 https://baigou999.cc/
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-续费 https://baigou999.cc/
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-续费 https://baigou999.cc/
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-续费 https://baigou999.cc/
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-联系不上客服，清除缓存，用无痕模式打开网址！！！
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21891
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-距离下次重置剩余：22 天
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-距离下次重置剩余：22 天
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-距离下次重置剩余：22 天
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21862
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-越南一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21870
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-泰国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21874
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 01-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: ab66e548-5daa-42af-a733-5ae5e0e664e0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 02-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: 35703011-ed89-4c91-8aa0-31da31e9330a
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 03-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: d3a15707-ecee-4d05-b35c-4be170e3e6dd
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 04-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: 6ab1c698-8795-45bf-beab-9150e34c42e9
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 05-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: 4bece303-d01b-43f8-8c48-d5822e5a5652
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 06-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: 44eac42f-80fd-4b5c-80de-33e7e1a34ae0
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 07-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: 80da32a5-dfc7-4e6f-8eff-81d96eb37403
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 08-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: 144bfafa-73c6-4bab-bc6f-bf8b92fbaf09
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 09-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: 0ddc61ce-f60b-4b31-baeb-0e77cb99c812
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 10-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: 3def3162-71bb-4f6c-9e79-30cf308308b8
-    sni: douyin.com
-    skip-cert-verify: true
-  - name: 11-英国一 isp 解锁openai
-    type: trojan
-    server: baigou1.kkieo555.cn
-    port: 21876
-    password: 2c65b6ad-1c22-4417-b8ed-23070f2f5261
-    sni: douyin.com
-    skip-cert-verify: true
+  - name: 🔥【交流群@pgkj0402】 01-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 📢【频道群@pgkj666】 02-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-1021297486（Q群）
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-1021297486（Q群）
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-1021297486（Q群）
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-1021297486（Q群）
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-1021297486（Q群）
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-复制下方网址联系售后
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-复制下方网址联系售后
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-复制下方网址联系售后
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-复制下方网址联系售后
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-复制下方网址联系售后
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: 4d4fa3c7-f9c2-4b32-b2c0-d8e5c4796d6f
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: 9b723790-e818-4872-ac81-61dd0ad22401
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: 8cf61916-eee2-484f-b817-ae46c273e36f
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: b292cbe3-c217-462c-b597-0f6ce73127a6
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: 670945d7-6044-4984-8612-18029c418668
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: e8ab9d17-b8ae-4684-826a-2ec94aeda213
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: 4fd64f05-ec8e-4fe1-bf22-dfc0cef10568
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: 11518a42-109b-4e75-be97-60d2cd05c74c
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: 3a8947b5-e2b0-462f-84de-2f05677ccee9
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: e416ac45-dffc-4c12-bf79-d984d24f8a5a
+    plugin: ''
+    plugin-opts: {}
 proxy-groups:
   - name: '🚀 节点选择'
     type: select
     proxies:
-      - 🇭🇰 香港高速1
-      - 🇭🇰 香港高速2
-      - 🇸🇬 新加坡隧道
-      - 🇯🇵 日本三 isp 解锁openai
-      - 🇯🇵 日本二 isp 解锁openai
-      - 🇯🇵 日本四 isp 解锁openai
-      - 🇹🇼 台湾一 isp 解锁openai
-      - 🇰🇷 韩国二 isp 解锁openai
-      - 🇺🇸 美国洛杉矶
-      - 🇺🇸 美国纽约
-      - 🇺🇸 美国西雅图
-      - 🇬🇧 英国一 isp 解锁openai
-      - 🇹🇭 泰国一 isp 解锁openai
-      - 🇻🇳 越南一 isp 解锁openai
-      - 🏴‍☠️ 续费 https://baigou999.cc/
-      - 🏴‍☠️ 联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 🏴‍☠️ 距离下次重置剩余：22 天
+      - 🇭🇰 香港01丨【IEPL】
+      - 🇭🇰 香港02丨【IEPL】
+      - 🇸🇬 新加坡丨解GPT
+      - 🇸🇬 新加坡解锁GPT
+      - 🇯🇵 日本丨解GPT
+      - 🇯🇵 日本解锁GPT
+      - 🇹🇼 台湾丨解GPT
+      - 🇰🇷 韩国原生ip
+      - 🇦🇺 澳大利亚原生ip
+      - 🇨🇦 加拿大丨快速
+      - 🇩🇪 德国丨解GPT
+      - 🇫🇷 法国原生ip
+      - 🇬🇧 英国原生ip
+      - 🇮🇳 印度原生ip
+      - 🇲🇾 马来西亚丨解GPT
+      - 🇵🇱 美国 01【IEPL】
+      - 🇵🇱 美国 02【IEPL】
+      - 🇹🇭 泰国丨快速
+      - 🇻🇳 越南丨解GPT
+      - 🏴‍☠️ 1021297486（Q群）
+      - 🏴‍☠️ 复制下方网址联系售后
   - name: '🌍 国外媒体'
     type: select
     proxies: ['🚀 节点选择', '🎯 全球直连']
@@ -1287,301 +1659,353 @@ proxy-groups:
   - name: '🎯 全球直连'
     type: select
     proxies: [DIRECT]
-  - name: 🇭🇰 香港高速1
+  - name: 🇭🇰 香港01丨【IEPL】
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 🔥【交流群@pgkj0402】 01-香港高速1
-      - 📢【频道群@pgkj666】 02-香港高速1
-      - 03-香港高速1
-      - 04-香港高速1
-      - 05-香港高速1
-      - 06-香港高速1
-      - 07-香港高速1
-      - 08-香港高速1
-      - 09-香港高速1
-      - 10-香港高速1
-      - 11-香港高速1
-  - name: 🇭🇰 香港高速2
+      - 🔥【交流群@pgkj0402】 01-香港01丨【IEPL】
+      - 📢【频道群@pgkj666】 02-香港01丨【IEPL】
+      - 03-香港01丨【IEPL】
+      - 04-香港01丨【IEPL】
+      - 05-香港01丨【IEPL】
+      - 06-香港01丨【IEPL】
+      - 07-香港01丨【IEPL】
+      - 08-香港01丨【IEPL】
+      - 09-香港01丨【IEPL】
+      - 10-香港01丨【IEPL】
+  - name: 🇭🇰 香港02丨【IEPL】
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-香港高速2
-      - 02-香港高速2
-      - 03-香港高速2
-      - 04-香港高速2
-      - 05-香港高速2
-      - 06-香港高速2
-      - 07-香港高速2
-      - 08-香港高速2
-      - 09-香港高速2
-      - 10-香港高速2
-      - 11-香港高速2
-  - name: 🇸🇬 新加坡隧道
+      - 01-香港02丨【IEPL】
+      - 02-香港02丨【IEPL】
+      - 03-香港02丨【IEPL】
+      - 04-香港02丨【IEPL】
+      - 05-香港02丨【IEPL】
+      - 06-香港02丨【IEPL】
+      - 07-香港02丨【IEPL】
+      - 08-香港02丨【IEPL】
+      - 09-香港02丨【IEPL】
+      - 10-香港02丨【IEPL】
+  - name: 🇸🇬 新加坡丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-新加坡隧道
-      - 02-新加坡隧道
-      - 03-新加坡隧道
-      - 04-新加坡隧道
-      - 05-新加坡隧道
-      - 06-新加坡隧道
-      - 07-新加坡隧道
-      - 08-新加坡隧道
-      - 09-新加坡隧道
-      - 10-新加坡隧道
-      - 11-新加坡隧道
-  - name: 🇯🇵 日本三 isp 解锁openai
+      - 01-新加坡丨解GPT
+      - 02-新加坡丨解GPT
+      - 03-新加坡丨解GPT
+      - 04-新加坡丨解GPT
+      - 05-新加坡丨解GPT
+      - 06-新加坡丨解GPT
+      - 07-新加坡丨解GPT
+      - 08-新加坡丨解GPT
+      - 09-新加坡丨解GPT
+      - 10-新加坡丨解GPT
+  - name: 🇸🇬 新加坡解锁GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-日本三 isp 解锁openai
-      - 02-日本三 isp 解锁openai
-      - 03-日本三 isp 解锁openai
-      - 04-日本三 isp 解锁openai
-      - 05-日本三 isp 解锁openai
-      - 06-日本三 isp 解锁openai
-      - 07-日本三 isp 解锁openai
-      - 08-日本三 isp 解锁openai
-      - 09-日本三 isp 解锁openai
-      - 10-日本三 isp 解锁openai
-      - 11-日本三 isp 解锁openai
-  - name: 🇯🇵 日本二 isp 解锁openai
+      - 01-新加坡解锁GPT
+      - 02-新加坡解锁GPT
+      - 03-新加坡解锁GPT
+      - 04-新加坡解锁GPT
+      - 05-新加坡解锁GPT
+      - 06-新加坡解锁GPT
+      - 07-新加坡解锁GPT
+      - 08-新加坡解锁GPT
+      - 09-新加坡解锁GPT
+      - 10-新加坡解锁GPT
+  - name: 🇯🇵 日本丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-日本二 isp 解锁openai
-      - 02-日本二 isp 解锁openai
-      - 03-日本二 isp 解锁openai
-      - 04-日本二 isp 解锁openai
-      - 05-日本二 isp 解锁openai
-      - 06-日本二 isp 解锁openai
-      - 07-日本二 isp 解锁openai
-      - 08-日本二 isp 解锁openai
-      - 09-日本二 isp 解锁openai
-      - 10-日本二 isp 解锁openai
-      - 11-日本二 isp 解锁openai
-  - name: 🇯🇵 日本四 isp 解锁openai
+      - 01-日本丨解GPT
+      - 02-日本丨解GPT
+      - 03-日本丨解GPT
+      - 04-日本丨解GPT
+      - 05-日本丨解GPT
+      - 06-日本丨解GPT
+      - 07-日本丨解GPT
+      - 08-日本丨解GPT
+      - 09-日本丨解GPT
+      - 10-日本丨解GPT
+  - name: 🇯🇵 日本解锁GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-日本四 isp 解锁openai
-      - 02-日本四 isp 解锁openai
-      - 03-日本四 isp 解锁openai
-      - 04-日本四 isp 解锁openai
-      - 05-日本四 isp 解锁openai
-      - 06-日本四 isp 解锁openai
-      - 07-日本四 isp 解锁openai
-      - 08-日本四 isp 解锁openai
-      - 09-日本四 isp 解锁openai
-      - 10-日本四 isp 解锁openai
-      - 11-日本四 isp 解锁openai
-  - name: 🇹🇼 台湾一 isp 解锁openai
+      - 01-日本解锁GPT
+      - 02-日本解锁GPT
+      - 03-日本解锁GPT
+      - 04-日本解锁GPT
+      - 05-日本解锁GPT
+      - 06-日本解锁GPT
+      - 07-日本解锁GPT
+      - 08-日本解锁GPT
+      - 09-日本解锁GPT
+      - 10-日本解锁GPT
+  - name: 🇹🇼 台湾丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-台湾一 isp 解锁openai
-      - 02-台湾一 isp 解锁openai
-      - 03-台湾一 isp 解锁openai
-      - 04-台湾一 isp 解锁openai
-      - 05-台湾一 isp 解锁openai
-      - 06-台湾一 isp 解锁openai
-      - 07-台湾一 isp 解锁openai
-      - 08-台湾一 isp 解锁openai
-      - 09-台湾一 isp 解锁openai
-      - 10-台湾一 isp 解锁openai
-      - 11-台湾一 isp 解锁openai
-  - name: 🇰🇷 韩国二 isp 解锁openai
+      - 01-台湾丨解GPT
+      - 02-台湾丨解GPT
+      - 03-台湾丨解GPT
+      - 04-台湾丨解GPT
+      - 05-台湾丨解GPT
+      - 06-台湾丨解GPT
+      - 07-台湾丨解GPT
+      - 08-台湾丨解GPT
+      - 09-台湾丨解GPT
+      - 10-台湾丨解GPT
+  - name: 🇰🇷 韩国原生ip
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-韩国二 isp 解锁openai
-      - 02-韩国二 isp 解锁openai
-      - 03-韩国二 isp 解锁openai
-      - 04-韩国二 isp 解锁openai
-      - 05-韩国二 isp 解锁openai
-      - 06-韩国二 isp 解锁openai
-      - 07-韩国二 isp 解锁openai
-      - 08-韩国二 isp 解锁openai
-      - 09-韩国二 isp 解锁openai
-      - 10-韩国二 isp 解锁openai
-      - 11-韩国二 isp 解锁openai
-  - name: 🇺🇸 美国洛杉矶
+      - 01-韩国原生ip
+      - 02-韩国原生ip
+      - 03-韩国原生ip
+      - 04-韩国原生ip
+      - 05-韩国原生ip
+      - 06-韩国原生ip
+      - 07-韩国原生ip
+      - 08-韩国原生ip
+      - 09-韩国原生ip
+      - 10-韩国原生ip
+  - name: 🏴‍☠️ 1021297486（Q群）
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-美国洛杉矶
-      - 02-美国洛杉矶
-      - 03-美国洛杉矶
-      - 04-美国洛杉矶
-      - 05-美国洛杉矶
-      - 06-美国洛杉矶
-      - 07-美国洛杉矶
-      - 08-美国洛杉矶
-      - 09-美国洛杉矶
-      - 10-美国洛杉矶
-      - 11-美国洛杉矶
-  - name: 🇺🇸 美国纽约
+      - 01-1021297486（Q群）
+      - 02-1021297486（Q群）
+      - 03-1021297486（Q群）
+      - 04-1021297486（Q群）
+      - 05-1021297486（Q群）
+  - name: 🏴‍☠️ 复制下方网址联系售后
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-美国纽约
-      - 02-美国纽约
-      - 03-美国纽约
-      - 04-美国纽约
-      - 05-美国纽约
-      - 06-美国纽约
-      - 07-美国纽约
-      - 08-美国纽约
-      - 09-美国纽约
-      - 10-美国纽约
-      - 11-美国纽约
-  - name: 🇺🇸 美国西雅图
+      - 01-复制下方网址联系售后
+      - 02-复制下方网址联系售后
+      - 03-复制下方网址联系售后
+      - 04-复制下方网址联系售后
+      - 05-复制下方网址联系售后
+  - name: 🇵🇱 美国 01【IEPL】
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-美国西雅图
-      - 02-美国西雅图
-      - 03-美国西雅图
-      - 04-美国西雅图
-      - 05-美国西雅图
-      - 06-美国西雅图
-      - 07-美国西雅图
-      - 08-美国西雅图
-      - 09-美国西雅图
-      - 10-美国西雅图
-      - 11-美国西雅图
-  - name: 🏴‍☠️ 续费 https://baigou999.cc/
+      - 01-美国 01【IEPL】
+      - 02-美国 01【IEPL】
+      - 03-美国 01【IEPL】
+      - 04-美国 01【IEPL】
+      - 05-美国 01【IEPL】
+      - 06-美国 01【IEPL】
+      - 07-美国 01【IEPL】
+      - 08-美国 01【IEPL】
+      - 09-美国 01【IEPL】
+      - 10-美国 01【IEPL】
+  - name: 🇵🇱 美国 02【IEPL】
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-续费 https://baigou999.cc/
-      - 02-续费 https://baigou999.cc/
-      - 03-续费 https://baigou999.cc/
-      - 04-续费 https://baigou999.cc/
-      - 05-续费 https://baigou999.cc/
-      - 06-续费 https://baigou999.cc/
-      - 07-续费 https://baigou999.cc/
-      - 08-续费 https://baigou999.cc/
-  - name: 🏴‍☠️ 联系不上客服，清除缓存，用无痕模式打开网址！！！
+      - 01-美国 02【IEPL】
+      - 02-美国 02【IEPL】
+      - 03-美国 02【IEPL】
+      - 04-美国 02【IEPL】
+      - 05-美国 02【IEPL】
+      - 06-美国 02【IEPL】
+      - 07-美国 02【IEPL】
+      - 08-美国 02【IEPL】
+      - 09-美国 02【IEPL】
+      - 10-美国 02【IEPL】
+  - name: 🇹🇭 泰国丨快速
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 02-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 03-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 04-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 05-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 06-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 07-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 08-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 09-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 10-联系不上客服，清除缓存，用无痕模式打开网址！！！
-      - 11-联系不上客服，清除缓存，用无痕模式打开网址！！！
-  - name: 🏴‍☠️ 距离下次重置剩余：22 天
+      - 01-泰国丨快速
+      - 02-泰国丨快速
+      - 03-泰国丨快速
+      - 04-泰国丨快速
+      - 05-泰国丨快速
+      - 06-泰国丨快速
+      - 07-泰国丨快速
+      - 08-泰国丨快速
+      - 09-泰国丨快速
+      - 10-泰国丨快速
+  - name: 🇻🇳 越南丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-距离下次重置剩余：22 天
-      - 02-距离下次重置剩余：22 天
-      - 03-距离下次重置剩余：22 天
-  - name: 🇻🇳 越南一 isp 解锁openai
+      - 01-越南丨解GPT
+      - 02-越南丨解GPT
+      - 03-越南丨解GPT
+      - 04-越南丨解GPT
+      - 05-越南丨解GPT
+      - 06-越南丨解GPT
+      - 07-越南丨解GPT
+      - 08-越南丨解GPT
+      - 09-越南丨解GPT
+      - 10-越南丨解GPT
+  - name: 🇲🇾 马来西亚丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-越南一 isp 解锁openai
-      - 02-越南一 isp 解锁openai
-      - 03-越南一 isp 解锁openai
-      - 04-越南一 isp 解锁openai
-      - 05-越南一 isp 解锁openai
-      - 06-越南一 isp 解锁openai
-      - 07-越南一 isp 解锁openai
-      - 08-越南一 isp 解锁openai
-      - 09-越南一 isp 解锁openai
-      - 10-越南一 isp 解锁openai
-      - 11-越南一 isp 解锁openai
-  - name: 🇹🇭 泰国一 isp 解锁openai
+      - 01-马来西亚丨解GPT
+      - 02-马来西亚丨解GPT
+      - 03-马来西亚丨解GPT
+      - 04-马来西亚丨解GPT
+      - 05-马来西亚丨解GPT
+      - 06-马来西亚丨解GPT
+      - 07-马来西亚丨解GPT
+      - 08-马来西亚丨解GPT
+      - 09-马来西亚丨解GPT
+      - 10-马来西亚丨解GPT
+  - name: 🇨🇦 加拿大丨快速
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-泰国一 isp 解锁openai
-      - 02-泰国一 isp 解锁openai
-      - 03-泰国一 isp 解锁openai
-      - 04-泰国一 isp 解锁openai
-      - 05-泰国一 isp 解锁openai
-      - 06-泰国一 isp 解锁openai
-      - 07-泰国一 isp 解锁openai
-      - 08-泰国一 isp 解锁openai
-      - 09-泰国一 isp 解锁openai
-      - 10-泰国一 isp 解锁openai
-      - 11-泰国一 isp 解锁openai
-  - name: 🇬🇧 英国一 isp 解锁openai
+      - 01-加拿大丨快速
+      - 02-加拿大丨快速
+      - 03-加拿大丨快速
+      - 04-加拿大丨快速
+      - 05-加拿大丨快速
+      - 06-加拿大丨快速
+      - 07-加拿大丨快速
+      - 08-加拿大丨快速
+      - 09-加拿大丨快速
+      - 10-加拿大丨快速
+  - name: 🇩🇪 德国丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-英国一 isp 解锁openai
-      - 02-英国一 isp 解锁openai
-      - 03-英国一 isp 解锁openai
-      - 04-英国一 isp 解锁openai
-      - 05-英国一 isp 解锁openai
-      - 06-英国一 isp 解锁openai
-      - 07-英国一 isp 解锁openai
-      - 08-英国一 isp 解锁openai
-      - 09-英国一 isp 解锁openai
-      - 10-英国一 isp 解锁openai
-      - 11-英国一 isp 解锁openai
+      - 01-德国丨解GPT
+      - 02-德国丨解GPT
+      - 03-德国丨解GPT
+      - 04-德国丨解GPT
+      - 05-德国丨解GPT
+      - 06-德国丨解GPT
+      - 07-德国丨解GPT
+      - 08-德国丨解GPT
+      - 09-德国丨解GPT
+      - 10-德国丨解GPT
+  - name: 🇬🇧 英国原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-英国原生ip
+      - 02-英国原生ip
+      - 03-英国原生ip
+      - 04-英国原生ip
+      - 05-英国原生ip
+      - 06-英国原生ip
+      - 07-英国原生ip
+      - 08-英国原生ip
+      - 09-英国原生ip
+      - 10-英国原生ip
+  - name: 🇮🇳 印度原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-印度原生ip
+      - 02-印度原生ip
+      - 03-印度原生ip
+      - 04-印度原生ip
+      - 05-印度原生ip
+      - 06-印度原生ip
+      - 07-印度原生ip
+      - 08-印度原生ip
+      - 09-印度原生ip
+      - 10-印度原生ip
+  - name: 🇦🇺 澳大利亚原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-澳大利亚原生ip
+      - 02-澳大利亚原生ip
+      - 03-澳大利亚原生ip
+      - 04-澳大利亚原生ip
+      - 05-澳大利亚原生ip
+      - 06-澳大利亚原生ip
+      - 07-澳大利亚原生ip
+      - 08-澳大利亚原生ip
+      - 09-澳大利亚原生ip
+      - 10-澳大利亚原生ip
+  - name: 🇫🇷 法国原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-法国原生ip
+      - 02-法国原生ip
+      - 03-法国原生ip
+      - 04-法国原生ip
+      - 05-法国原生ip
+      - 06-法国原生ip
+      - 07-法国原生ip
+      - 08-法国原生ip
+      - 09-法国原生ip
+      - 10-法国原生ip
 rules:
   - 'IP-CIDR,129.146.160.80/32,DIRECT,no-resolve'
   - 'IP-CIDR,148.135.52.61/32,DIRECT,no-resolve'
