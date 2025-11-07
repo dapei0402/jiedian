@@ -18,7 +18,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48302
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 📢【频道群@pgkj666】 02-香港01丨【IEPL】
@@ -26,7 +26,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48302
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 03-香港01丨【IEPL】
@@ -34,7 +34,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48302
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 04-香港01丨【IEPL】
@@ -42,7 +42,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48302
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 05-香港01丨【IEPL】
@@ -50,7 +50,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48302
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 06-香港01丨【IEPL】
@@ -58,7 +58,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48302
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 07-香港01丨【IEPL】
@@ -66,7 +66,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48302
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 08-香港01丨【IEPL】
@@ -74,7 +74,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48302
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 09-香港01丨【IEPL】
@@ -82,7 +82,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48302
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-香港01丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48302
+    cipher: aes-128-gcm
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 01-香港02丨【IEPL】
@@ -90,7 +98,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48307
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 02-香港02丨【IEPL】
@@ -98,7 +106,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48307
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 03-香港02丨【IEPL】
@@ -106,7 +114,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48307
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 04-香港02丨【IEPL】
@@ -114,7 +122,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48307
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 05-香港02丨【IEPL】
@@ -122,7 +130,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48307
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 06-香港02丨【IEPL】
@@ -130,7 +138,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48307
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 07-香港02丨【IEPL】
@@ -138,7 +146,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48307
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 08-香港02丨【IEPL】
@@ -146,7 +154,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48307
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 09-香港02丨【IEPL】
@@ -154,7 +162,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48307
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-香港02丨【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48307
+    cipher: aes-128-gcm
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 01-新加坡丨解GPT
@@ -162,7 +178,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48304
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 02-新加坡丨解GPT
@@ -170,7 +186,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48304
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 03-新加坡丨解GPT
@@ -178,7 +194,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48304
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 04-新加坡丨解GPT
@@ -186,7 +202,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48304
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 05-新加坡丨解GPT
@@ -194,7 +210,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48304
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 06-新加坡丨解GPT
@@ -202,7 +218,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48304
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 07-新加坡丨解GPT
@@ -210,7 +226,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48304
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 08-新加坡丨解GPT
@@ -218,7 +234,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48304
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 09-新加坡丨解GPT
@@ -226,7 +242,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48304
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-新加坡丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48304
+    cipher: aes-128-gcm
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 01-新加坡解锁GPT
@@ -234,7 +258,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48310
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 02-新加坡解锁GPT
@@ -242,7 +266,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48310
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 03-新加坡解锁GPT
@@ -250,7 +274,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48310
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 04-新加坡解锁GPT
@@ -258,7 +282,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48310
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 05-新加坡解锁GPT
@@ -266,7 +290,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48310
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 06-新加坡解锁GPT
@@ -274,7 +298,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48310
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 07-新加坡解锁GPT
@@ -282,7 +306,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48310
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 08-新加坡解锁GPT
@@ -290,7 +314,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48310
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 09-新加坡解锁GPT
@@ -298,7 +322,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48310
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-新加坡解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48310
+    cipher: aes-128-gcm
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 01-日本丨解GPT
@@ -306,7 +338,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48303
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 02-日本丨解GPT
@@ -314,7 +346,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48303
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 03-日本丨解GPT
@@ -322,7 +354,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48303
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 04-日本丨解GPT
@@ -330,7 +362,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48303
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 05-日本丨解GPT
@@ -338,7 +370,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48303
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 06-日本丨解GPT
@@ -346,7 +378,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48303
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 07-日本丨解GPT
@@ -354,7 +386,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48303
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 08-日本丨解GPT
@@ -362,7 +394,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48303
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 09-日本丨解GPT
@@ -370,7 +402,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48303
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-日本丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48303
+    cipher: aes-128-gcm
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 01-日本解锁GPT
@@ -378,7 +418,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48315
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 02-日本解锁GPT
@@ -386,7 +426,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48315
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 03-日本解锁GPT
@@ -394,7 +434,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48315
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 04-日本解锁GPT
@@ -402,7 +442,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48315
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 05-日本解锁GPT
@@ -410,7 +450,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48315
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 06-日本解锁GPT
@@ -418,7 +458,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48315
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 07-日本解锁GPT
@@ -426,7 +466,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48315
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 08-日本解锁GPT
@@ -434,7 +474,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48315
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 09-日本解锁GPT
@@ -442,7 +482,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48315
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-日本解锁GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48315
+    cipher: aes-128-gcm
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 01-台湾丨解GPT
@@ -450,7 +498,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48308
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 02-台湾丨解GPT
@@ -458,7 +506,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48308
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 03-台湾丨解GPT
@@ -466,7 +514,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48308
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 04-台湾丨解GPT
@@ -474,7 +522,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48308
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 05-台湾丨解GPT
@@ -482,7 +530,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48308
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 06-台湾丨解GPT
@@ -490,7 +538,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48308
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 07-台湾丨解GPT
@@ -498,7 +546,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48308
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 08-台湾丨解GPT
@@ -506,7 +554,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48308
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 09-台湾丨解GPT
@@ -514,7 +562,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48308
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-台湾丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48308
+    cipher: aes-128-gcm
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 01-韩国原生ip
@@ -522,7 +578,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48306
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 02-韩国原生ip
@@ -530,7 +586,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48306
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 03-韩国原生ip
@@ -538,7 +594,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48306
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 04-韩国原生ip
@@ -546,7 +602,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48306
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 05-韩国原生ip
@@ -554,7 +610,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48306
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 06-韩国原生ip
@@ -562,7 +618,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48306
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 07-韩国原生ip
@@ -570,7 +626,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48306
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 08-韩国原生ip
@@ -578,7 +634,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48306
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 09-韩国原生ip
@@ -586,7 +642,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48306
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-韩国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48306
+    cipher: aes-128-gcm
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 01-1021297486（Q群）
@@ -594,7 +658,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48301
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 02-1021297486（Q群）
@@ -602,7 +666,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48301
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 03-1021297486（Q群）
@@ -610,7 +674,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48301
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 04-1021297486（Q群）
@@ -618,7 +682,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48301
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 05-1021297486（Q群）
@@ -626,39 +690,47 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48301
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
-  - name: 01-复制下方网址联系售后
+  - name: 🏴‍☠️ 复制下方网址联系售后
     type: ss
     server: bmde.bcymanuscript.top
     port: 48301
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
-  - name: 02-复制下方网址联系售后
+  - name: 01-距离下次重置剩余：27 天
     type: ss
     server: bmde.bcymanuscript.top
     port: 48301
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
-  - name: 03-复制下方网址联系售后
+  - name: 02-距离下次重置剩余：27 天
     type: ss
     server: bmde.bcymanuscript.top
     port: 48301
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
-  - name: 04-复制下方网址联系售后
+  - name: 03-距离下次重置剩余：27 天
     type: ss
     server: bmde.bcymanuscript.top
     port: 48301
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-距离下次重置剩余：27 天
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48301
+    cipher: aes-128-gcm
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 01-美国 01【IEPL】
@@ -666,7 +738,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48305
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 02-美国 01【IEPL】
@@ -674,7 +746,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48305
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 03-美国 01【IEPL】
@@ -682,7 +754,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48305
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 04-美国 01【IEPL】
@@ -690,7 +762,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48305
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 05-美国 01【IEPL】
@@ -698,7 +770,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48305
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 06-美国 01【IEPL】
@@ -706,7 +778,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48305
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 07-美国 01【IEPL】
@@ -714,7 +786,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48305
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 08-美国 01【IEPL】
@@ -722,7 +794,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48305
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 09-美国 01【IEPL】
@@ -730,7 +802,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48305
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-美国 01【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48305
+    cipher: aes-128-gcm
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 01-美国 02【IEPL】
@@ -738,7 +818,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48321
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 02-美国 02【IEPL】
@@ -746,7 +826,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48321
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 03-美国 02【IEPL】
@@ -754,7 +834,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48321
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 04-美国 02【IEPL】
@@ -762,7 +842,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48321
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 05-美国 02【IEPL】
@@ -770,7 +850,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48321
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 06-美国 02【IEPL】
@@ -778,7 +858,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48321
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 07-美国 02【IEPL】
@@ -786,7 +866,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48321
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 08-美国 02【IEPL】
@@ -794,7 +874,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48321
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 09-美国 02【IEPL】
@@ -802,7 +882,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48321
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-美国 02【IEPL】
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48321
+    cipher: aes-128-gcm
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 01-泰国丨快速
@@ -810,7 +898,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48319
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 02-泰国丨快速
@@ -818,7 +906,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48319
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 03-泰国丨快速
@@ -826,7 +914,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48319
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 04-泰国丨快速
@@ -834,7 +922,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48319
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 05-泰国丨快速
@@ -842,7 +930,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48319
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 06-泰国丨快速
@@ -850,7 +938,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48319
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 07-泰国丨快速
@@ -858,7 +946,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48319
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 08-泰国丨快速
@@ -866,7 +954,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48319
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 09-泰国丨快速
@@ -874,7 +962,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48319
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-泰国丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48319
+    cipher: aes-128-gcm
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 01-越南丨解GPT
@@ -882,7 +978,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48320
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 02-越南丨解GPT
@@ -890,7 +986,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48320
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 03-越南丨解GPT
@@ -898,7 +994,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48320
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 04-越南丨解GPT
@@ -906,7 +1002,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48320
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 05-越南丨解GPT
@@ -914,7 +1010,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48320
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 06-越南丨解GPT
@@ -922,7 +1018,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48320
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 07-越南丨解GPT
@@ -930,7 +1026,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48320
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 08-越南丨解GPT
@@ -938,7 +1034,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48320
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 09-越南丨解GPT
@@ -946,7 +1042,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48320
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-越南丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48320
+    cipher: aes-128-gcm
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 01-马来西亚丨解GPT
@@ -954,7 +1058,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48318
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 02-马来西亚丨解GPT
@@ -962,7 +1066,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48318
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 03-马来西亚丨解GPT
@@ -970,7 +1074,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48318
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 04-马来西亚丨解GPT
@@ -978,7 +1082,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48318
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 05-马来西亚丨解GPT
@@ -986,7 +1090,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48318
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 06-马来西亚丨解GPT
@@ -994,7 +1098,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48318
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 07-马来西亚丨解GPT
@@ -1002,7 +1106,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48318
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 08-马来西亚丨解GPT
@@ -1010,7 +1114,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48318
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 09-马来西亚丨解GPT
@@ -1018,7 +1122,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48318
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-马来西亚丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48318
+    cipher: aes-128-gcm
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 01-加拿大丨快速
@@ -1026,7 +1138,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48313
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 02-加拿大丨快速
@@ -1034,7 +1146,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48313
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 03-加拿大丨快速
@@ -1042,7 +1154,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48313
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 04-加拿大丨快速
@@ -1050,7 +1162,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48313
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 05-加拿大丨快速
@@ -1058,7 +1170,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48313
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 06-加拿大丨快速
@@ -1066,7 +1178,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48313
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 07-加拿大丨快速
@@ -1074,7 +1186,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48313
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 08-加拿大丨快速
@@ -1082,7 +1194,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48313
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 09-加拿大丨快速
@@ -1090,7 +1202,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48313
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-加拿大丨快速
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48313
+    cipher: aes-128-gcm
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 01-德国丨解GPT
@@ -1098,7 +1218,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48314
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 02-德国丨解GPT
@@ -1106,7 +1226,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48314
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 03-德国丨解GPT
@@ -1114,7 +1234,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48314
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 04-德国丨解GPT
@@ -1122,7 +1242,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48314
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 05-德国丨解GPT
@@ -1130,7 +1250,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48314
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 06-德国丨解GPT
@@ -1138,7 +1258,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48314
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 07-德国丨解GPT
@@ -1146,7 +1266,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48314
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 08-德国丨解GPT
@@ -1154,7 +1274,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48314
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 09-德国丨解GPT
@@ -1162,7 +1282,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48314
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-德国丨解GPT
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48314
+    cipher: aes-128-gcm
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 01-英国原生ip
@@ -1170,7 +1298,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48309
     cipher: chacha20-ietf-poly1305
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 02-英国原生ip
@@ -1178,7 +1306,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48309
     cipher: chacha20-ietf-poly1305
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 03-英国原生ip
@@ -1186,7 +1314,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48309
     cipher: chacha20-ietf-poly1305
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 04-英国原生ip
@@ -1194,7 +1322,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48309
     cipher: chacha20-ietf-poly1305
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 05-英国原生ip
@@ -1202,7 +1330,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48309
     cipher: chacha20-ietf-poly1305
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 06-英国原生ip
@@ -1210,7 +1338,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48309
     cipher: chacha20-ietf-poly1305
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 07-英国原生ip
@@ -1218,7 +1346,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48309
     cipher: chacha20-ietf-poly1305
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 08-英国原生ip
@@ -1226,7 +1354,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48309
     cipher: chacha20-ietf-poly1305
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 09-英国原生ip
@@ -1234,7 +1362,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48309
     cipher: chacha20-ietf-poly1305
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-英国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48309
+    cipher: chacha20-ietf-poly1305
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 01-印度原生ip
@@ -1242,7 +1378,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48311
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 02-印度原生ip
@@ -1250,7 +1386,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48311
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 03-印度原生ip
@@ -1258,7 +1394,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48311
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 04-印度原生ip
@@ -1266,7 +1402,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48311
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 05-印度原生ip
@@ -1274,7 +1410,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48311
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 06-印度原生ip
@@ -1282,7 +1418,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48311
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 07-印度原生ip
@@ -1290,7 +1426,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48311
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 08-印度原生ip
@@ -1298,7 +1434,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48311
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 09-印度原生ip
@@ -1306,7 +1442,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48311
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-印度原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48311
+    cipher: aes-128-gcm
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 01-澳大利亚原生ip
@@ -1314,7 +1458,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48312
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 02-澳大利亚原生ip
@@ -1322,7 +1466,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48312
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 03-澳大利亚原生ip
@@ -1330,7 +1474,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48312
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 04-澳大利亚原生ip
@@ -1338,7 +1482,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48312
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 05-澳大利亚原生ip
@@ -1346,7 +1490,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48312
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
   - name: 06-澳大利亚原生ip
@@ -1354,7 +1498,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48312
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 07-澳大利亚原生ip
@@ -1362,7 +1506,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48312
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
     plugin: ''
     plugin-opts: {}
   - name: 08-澳大利亚原生ip
@@ -1370,7 +1514,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48312
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 09-澳大利亚原生ip
@@ -1378,7 +1522,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48312
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-澳大利亚原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48312
+    cipher: aes-128-gcm
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 01-法国原生ip
@@ -1386,7 +1538,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48325
     cipher: aes-128-gcm
-    password: 81656a42-7889-4ce8-8bb0-772b46644c30
+    password: 71e28f58-9b94-433e-beea-64cdbf6779a2
     plugin: ''
     plugin-opts: {}
   - name: 02-法国原生ip
@@ -1394,7 +1546,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48325
     cipher: aes-128-gcm
-    password: b2b9fd89-d7b7-4e52-9c7b-124f7fa75cb0
+    password: 0f16a4c2-5234-4a3d-82dc-7439d4a02f65
     plugin: ''
     plugin-opts: {}
   - name: 03-法国原生ip
@@ -1402,7 +1554,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48325
     cipher: aes-128-gcm
-    password: 485e53cc-eb38-4a83-a5e5-a70d504fc02e
+    password: f9d2bbc1-0913-43db-9ff5-f165bc207db8
     plugin: ''
     plugin-opts: {}
   - name: 04-法国原生ip
@@ -1410,7 +1562,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48325
     cipher: aes-128-gcm
-    password: cf333693-222d-4457-9a94-9bc35ad3ffd2
+    password: 8aa76092-d31b-4f40-b4a3-b94cbbaf231d
     plugin: ''
     plugin-opts: {}
   - name: 05-法国原生ip
@@ -1418,7 +1570,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48325
     cipher: aes-128-gcm
-    password: 45ecf37b-7fff-47be-bce3-757082991158
+    password: 07c269e9-ba4c-4bf7-b4e0-b8ad87b129aa
     plugin: ''
     plugin-opts: {}
   - name: 06-法国原生ip
@@ -1426,7 +1578,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48325
     cipher: aes-128-gcm
-    password: f2daeb53-98b9-400a-ae1b-4606deeaf678
+    password: bacf5e4a-840e-419a-88c0-07837c4480c2
     plugin: ''
     plugin-opts: {}
   - name: 07-法国原生ip
@@ -1434,7 +1586,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48325
     cipher: aes-128-gcm
-    password: 71acdafe-9235-4268-bd60-daf6397486a7
+    password: 8fb3621a-5ee8-4c0d-8d46-2f721dc28883
     plugin: ''
     plugin-opts: {}
   - name: 08-法国原生ip
@@ -1442,7 +1594,7 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48325
     cipher: aes-128-gcm
-    password: 6ab31e29-4771-4adf-b070-371621b6820f
+    password: 679190bc-668b-4ecd-b415-0698a8964100
     plugin: ''
     plugin-opts: {}
   - name: 09-法国原生ip
@@ -1450,7 +1602,15 @@ proxies:
     server: bmde.bcymanuscript.top
     port: 48325
     cipher: aes-128-gcm
-    password: 02aba8f7-593f-4e7f-aabc-f629a32665a0
+    password: 10c02c65-e0f7-4086-9f93-d92292c4c003
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-法国原生ip
+    type: ss
+    server: bmde.bcymanuscript.top
+    port: 48325
+    cipher: aes-128-gcm
+    password: 431b0982-2fa1-408f-aaad-a0c52622645e
     plugin: ''
     plugin-opts: {}
 proxy-groups:
@@ -1478,6 +1638,7 @@ proxy-groups:
       - 🇻🇳 越南丨解GPT
       - 🏴‍☠️ 1021297486（Q群）
       - 🏴‍☠️ 复制下方网址联系售后
+      - 🏴‍☠️ 距离下次重置剩余：27 天
   - name: '🌍 国外媒体'
     type: select
     proxies: ['🚀 节点选择', '🎯 全球直连']
@@ -1515,6 +1676,7 @@ proxy-groups:
       - 07-香港01丨【IEPL】
       - 08-香港01丨【IEPL】
       - 09-香港01丨【IEPL】
+      - 10-香港01丨【IEPL】
   - name: 🇭🇰 香港02丨【IEPL】
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1531,6 +1693,7 @@ proxy-groups:
       - 07-香港02丨【IEPL】
       - 08-香港02丨【IEPL】
       - 09-香港02丨【IEPL】
+      - 10-香港02丨【IEPL】
   - name: 🇸🇬 新加坡丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1547,6 +1710,7 @@ proxy-groups:
       - 07-新加坡丨解GPT
       - 08-新加坡丨解GPT
       - 09-新加坡丨解GPT
+      - 10-新加坡丨解GPT
   - name: 🇸🇬 新加坡解锁GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1563,6 +1727,7 @@ proxy-groups:
       - 07-新加坡解锁GPT
       - 08-新加坡解锁GPT
       - 09-新加坡解锁GPT
+      - 10-新加坡解锁GPT
   - name: 🇯🇵 日本丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1579,6 +1744,7 @@ proxy-groups:
       - 07-日本丨解GPT
       - 08-日本丨解GPT
       - 09-日本丨解GPT
+      - 10-日本丨解GPT
   - name: 🇯🇵 日本解锁GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1595,6 +1761,7 @@ proxy-groups:
       - 07-日本解锁GPT
       - 08-日本解锁GPT
       - 09-日本解锁GPT
+      - 10-日本解锁GPT
   - name: 🇹🇼 台湾丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1611,6 +1778,7 @@ proxy-groups:
       - 07-台湾丨解GPT
       - 08-台湾丨解GPT
       - 09-台湾丨解GPT
+      - 10-台湾丨解GPT
   - name: 🇰🇷 韩国原生ip
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1627,6 +1795,7 @@ proxy-groups:
       - 07-韩国原生ip
       - 08-韩国原生ip
       - 09-韩国原生ip
+      - 10-韩国原生ip
   - name: 🏴‍☠️ 1021297486（Q群）
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1639,17 +1808,17 @@ proxy-groups:
       - 03-1021297486（Q群）
       - 04-1021297486（Q群）
       - 05-1021297486（Q群）
-  - name: 🏴‍☠️ 复制下方网址联系售后
+  - name: 🏴‍☠️ 距离下次重置剩余：27 天
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     lazy: true
     proxies:
-      - 01-复制下方网址联系售后
-      - 02-复制下方网址联系售后
-      - 03-复制下方网址联系售后
-      - 04-复制下方网址联系售后
+      - 01-距离下次重置剩余：27 天
+      - 02-距离下次重置剩余：27 天
+      - 03-距离下次重置剩余：27 天
+      - 04-距离下次重置剩余：27 天
   - name: 🇵🇱 美国 01【IEPL】
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1666,6 +1835,7 @@ proxy-groups:
       - 07-美国 01【IEPL】
       - 08-美国 01【IEPL】
       - 09-美国 01【IEPL】
+      - 10-美国 01【IEPL】
   - name: 🇵🇱 美国 02【IEPL】
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1682,6 +1852,7 @@ proxy-groups:
       - 07-美国 02【IEPL】
       - 08-美国 02【IEPL】
       - 09-美国 02【IEPL】
+      - 10-美国 02【IEPL】
   - name: 🇹🇭 泰国丨快速
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1698,6 +1869,7 @@ proxy-groups:
       - 07-泰国丨快速
       - 08-泰国丨快速
       - 09-泰国丨快速
+      - 10-泰国丨快速
   - name: 🇻🇳 越南丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1714,6 +1886,7 @@ proxy-groups:
       - 07-越南丨解GPT
       - 08-越南丨解GPT
       - 09-越南丨解GPT
+      - 10-越南丨解GPT
   - name: 🇲🇾 马来西亚丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1730,6 +1903,7 @@ proxy-groups:
       - 07-马来西亚丨解GPT
       - 08-马来西亚丨解GPT
       - 09-马来西亚丨解GPT
+      - 10-马来西亚丨解GPT
   - name: 🇨🇦 加拿大丨快速
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1746,6 +1920,7 @@ proxy-groups:
       - 07-加拿大丨快速
       - 08-加拿大丨快速
       - 09-加拿大丨快速
+      - 10-加拿大丨快速
   - name: 🇩🇪 德国丨解GPT
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1762,6 +1937,7 @@ proxy-groups:
       - 07-德国丨解GPT
       - 08-德国丨解GPT
       - 09-德国丨解GPT
+      - 10-德国丨解GPT
   - name: 🇬🇧 英国原生ip
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1778,6 +1954,7 @@ proxy-groups:
       - 07-英国原生ip
       - 08-英国原生ip
       - 09-英国原生ip
+      - 10-英国原生ip
   - name: 🇮🇳 印度原生ip
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1794,6 +1971,7 @@ proxy-groups:
       - 07-印度原生ip
       - 08-印度原生ip
       - 09-印度原生ip
+      - 10-印度原生ip
   - name: 🇦🇺 澳大利亚原生ip
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1810,6 +1988,7 @@ proxy-groups:
       - 07-澳大利亚原生ip
       - 08-澳大利亚原生ip
       - 09-澳大利亚原生ip
+      - 10-澳大利亚原生ip
   - name: 🇫🇷 法国原生ip
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -1826,6 +2005,7 @@ proxy-groups:
       - 07-法国原生ip
       - 08-法国原生ip
       - 09-法国原生ip
+      - 10-法国原生ip
 rules:
   - 'IP-CIDR,129.146.160.80/32,DIRECT,no-resolve'
   - 'IP-CIDR,148.135.52.61/32,DIRECT,no-resolve'
